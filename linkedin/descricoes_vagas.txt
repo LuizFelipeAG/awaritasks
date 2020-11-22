@@ -1,0 +1,5187 @@
+Estgio em Cincia de Dados
+
+A Equinix a empresa global de infraestrutura digital, onde lderes digitais podem usufruir de uma plataforma segura e confivel para reunir e interconectar a infraestrutura bsica que potencializa o sucesso dos negcios.
+
+A Equinix viabiliza o acesso a todos os locais, parceiros e possibilidades certos para acelerar as vantagens competitivas. Com a Equinix, seus clientes podem escalar com agilidade, lanar servios digitais rapidamente, entregar experincias de ponta e multiplicar o valor de seus negcios
+
+
+
+
+
+Somos um empregador de oportunidades iguais e valorizamos a diversidade em nossa empresa. No discriminamos com base em raa, religio, cor, nacionalidade, sexo, orientao sexual, idade, estado civil, status de veterano ou status de deficincia.
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Manufatura de eletroeletrônicosMaquinárioRecrutamento e seleção
+Atividades
+
+Extrair insights dos dados da empresa , estruturados ou não de fontes variadas das áreas internas da empresa;
+Criar relatórios no conceito Self-Service BI ;
+Participar das iniciativas de Infraestrutura de Dados (Data Lake, Data warehouse...);
+Desenvolver monitoria de aplicações ao longo do tempo com geração de alertas;
+Desenvolver e manter modelos matemáticos para resolver problemas de negócio.
+
+
+
+Superior em Estatística, Engenharias, Física, Economia, Ciência da Computação ou cursos relacionados;
+Experiência em Análise Exploratória de Dados, Algorítimos de Aprendizado de Máquina, Séries Temporais;
+Conhecimento: cálculo, álgebra linear, estatística, banco de dados, plataformas cloud para ciência de dados;
+Stack Tecnológica: Python para ciência de dados, R, SQL, Power Bi, programação orientada à objeto (C# e Java)
+
+Diferenciais
+Conhecimento em metodologias ágeis; CRISP-DM;
+Experiência com Business Intelligence;
+Bibliotecas Python: Pandas, Numpy, Scikit-learn, Matplotlib;
+Conhecimento em Processamento de Linguagem Natural;
+Experiência com Web APIs;
+Conhecimento em versionamento de código (Git);
+Contratação CLT + pacote completo de benefíciosem empresa de grande porte, ampliando seu time interno de Data Science.
+Atuação: Remoto
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+ Ciêntista de Dados
+
+Descrição da área:
+Ciência de Dados na Porto Seguro
+Apesar do termo Ciência de Dados ter se popularizado apenas a partir dos anos 2000, a Porto
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Analista
+Setores
+Seguros
+Responsabilidades da Oportunidade
+
+Que Esperamos De Você
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Publicado há 66 dias
+Ser protagonista na mudança cultural da área de Supply Chain para um cultura mais Analítica (Data-driven);
+Automatização de vários processos da área de Supply Chain desde as rotinas mais simples às mais complexas;
+Condução de projetos que envolvam ciência de dados que visam resolver problemas do negócio;
+Condução de projetos que envolvam engenharia de dados que visam resolver problemas do negócio.
+Automatização de relatórios e processos;
+Engenharia de dados;
+Estudos estatísticos
+
+Cientista de Dados Pl
+Temporário
+Informática/T.I.
+Disponibilidade total de horário
+1
+Onibus fretado
+Refeição no Local
+
+Requisitos
+
+
+
+Graduação - Estatistica - Concluído - Obrigatório
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Manufatura de eletroeletrônicosRecrutamento e seleçãoRecursos humanos
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso as informações completas sobre a empresa.
+
+Como analista de Ciência de Dados, membro do time de Data & Insights, você terá um papel crucial na descoberta e na aplicação de soluções e insights: suas análises e modelagens (estatísticas e de machine learning) influenciarão a forma como os líderes tomarão decisões e como a ClickBus entrega valor para seus usuários, suprindo as equipes com projetos focados em desempenho e inovação interna. Seu dia a dia no busão será incrível! Você será responsável por:
+
+
+
+
+
+
+
+
+
+Sim
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Nesta vaga você irá desempenhar o papel de desenvolvedor (a) de plataforma de dados focado no desenvolvimento de softwares escaláveis e performáticos, altamente resilientes e tolerantes à falhas.
+
+Nossa área de Big Data & AI é um dos maiores cases de Big Data no Brasil. Pelos nossos produtos passam mais de 100 milhões de usuários únicos e são produzidos centenas de milhares de conteúdos novos todos os meses. Se você gosta de gerar impacto positivo na vida de milhões de usuários essa vaga é pra você!
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+OutroAnalista
+Setores
+Internet
+Enviar mensagem direta ao anunciante da vaga na Passei Direto
+Gabriela Azevedo
+Talent Acquisition | Tech Recruiter at Passei Direto
+A posição de Data Science Manager está em nosso time de Dados. O nosso maior desafio no momento é construir produtos que impactam a vida de milhões de estudantes. Essa pessoa será responsável por nos ajudar a fazer o melhor uso dos nossos dados para a tomada de decisões mais assertivas. 🧡
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços Gestão educacional
+Aqui na #Stefanini, acreditamos que para co-criar é necessário existir diferentes formas de pensamento!
+Entendemos que as diferenças tornam as pessoas únicas e, por isso, não fazemos qualquer distinção entre nossos candidatos. Para nós, não importa idade, gênero, raça/etnia, deficiência, orientação sexual, origem, estética ou constituição familiar. Nós queremos te conhecer. Ser diferente torna as pessoas únicas!
+
+
+
+
+
+Formação superior em Exatas (Engenharia, Ciência da Computação, Matemática, Estatística e Física)
+
+correlatas);
+
+Experiência comprovada como Engenheiro de Dados;
+
+Conhecimento de arquitetura e construção de estruturas Data Lake Big DATA / Hadoop (Hive, MapReduce,Storm, Flume, etc.) para análises estatísticas e aprendizado de máquina;
+
+Conhecimento nas linguagens de programação Python, R, Java, Scala;
+
+Conhecimentos sobre framework Apache, Hadoop, Spark;
+
+Experiência em ambiente Cloud AZURE;
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Enviar mensagem direta ao anunciante da vaga na CENTAURO
+Denise Canavezi
+Sênior Tech Recruiter | CENTAURO
+Na Centauro, acreditamos que o esporte é para todos - e quando pensamos em ‘todos’, não existe exceção. Tudo que fazemos aqui é baseado em relações de gente para gente. Acreditamos muito que envolver pessoas diversas na nossa caminhada fortalece o nosso propósito: mobilizar pessoas, impulsionar o esporte e transformar vidas. Afinal, isso não é só sobre uma ação afirmativa, mas também sobre englobar novas visões que nos ajudem em nosso caminho para sermos uma empresa cada vez mais diversa.
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Materiais esportivos
+Enfrentar o complexo sistema bancário para capacitar as pessoas em um dos mercados mais burocráticos do mundo parece uma ideia maluca, certo? Mas foi nesse cenário que o Nubank nasceu.
+
+Nós empoderamos milhões de pessoas a viverem melhor, tendo total controle do seu dinheiro. Somos a empresa de tecnologia mais inovadora da América Latina, e nossos times são obcecados por construir serviços e produtos financeiros que façam com que nossos clientes nos amem fanaticamente. Com operações no Brasil, México e Colômbia, somos hoje o maior banco digital independente do mundo, reinventando a vida financeira de mais de 30 milhões de clientes.
+
+Nós somos um time de pessoas criativas e inovadoras, e todas as pessoas têm a chance de participarem ativamente, contribuírem com ideias e se desenvolverem profissionalmente.
+
+Para ter certeza que estamos construindo um ambiente mais diverso e inclusivo que reflita a realidade de quem são os consumidores que empoderamos todos os dias, nós buscamos recrutar nos movendo para um espaço de representatividade e proporcionalidade. Isso significa que consideramos diversos marcadores de identidade como fatores que enriquecem nossa empresa, garantindo que nenhum deles seja uma barreira para que possamos recrutar talentos incríveis.
+
+Inscreva-se nessa página para fazer parte do nosso time e nos conte mais sobre sua carreira e sua história, nós estamos ansiosos para te conhecer, e aumentarmos a nossa nação roxa!
+
+
+
+
+Essa é uma vaga de Diversidade - Inclusão da Comunidade Negra. Nosso time de Recrutamento está constantemente revisando os currículos que chegam por aqui, e quando identificamos uma ótima oportunidade, entramos em contato com as pessoas para que elas participem do nosso processo de recrutamento.
+
+
+
+Todas as pessoas que se identificam como parte da comunidade negra podem se inscrever nessa página e em quaisquer outras vagas na nossa página de carreiras. Aqui, seu perfil será revisado e direcionado para áreas onde estamos recrutando, caso haja sinergia.
+
+
+
+Essa é uma plataforma para pessoas negras que desejam fazer parte do time do Nubank, caso você se identifique como parte de outros grupos, confira nossas oportunidades na página de carreiras.
+
+
+
+Acreditamos que diversidade é essencial para que possamos continuar criando produtos que possam empoderar milhões de pessoas na América Latina. Entendemos que a tecnologia é um campo de atuação em que a comunidade negra ainda é sub-representada, e queremos dar oportunidades de carreiras para todas as pessoas que desejem trabalhar conosco. Por isso, somos comprometidos em mudar esses números em todos os níveis e áreas de conhecimento da empresa.
+
+
+
+Todas as pessoas inscritas nessa página terão seus perfis revisados e direcionados para um processo de recrutamento em áreas com posições abertas, caso haja sinergia.
+
+
+
+Sim, o Nubank está constante buscando por talentos em todo o Brasil e, devido à pandemia, todos os nossos processos de recrutamento e integração de novas pessoas contratadas estão sendo feitos de maneira remota e 100% online. Nós iremos avaliar a possibilidade de contratação de pessoas fora de São Paulo a depender da área e contexto de negócio.
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+SoftwareInternetRecrutamento e seleção
+Job Description
+
+Trabalhe com a sua paixão!
+
+A Avanade é a consultoria líder em soluções inovadoras de digital e nuvem, soluções de negócios e experiências que levam design aos nossos clientes, entregues por meio do poder das nossas pessoas e do ecossistema Microsoft. Fazemos tudo aquilo que você espera de uma empresa líder em inovação digital, mas é o que você não espera o que nos torna diferente.  Somos 36.000 pessoas conectadas em 24 países, construindo histórias e fazendo acontecer.
+
+Sabemos que o trabalho não é sua única paixão e colocamos nosso valor em você - sua carreira, seus objetivos e seu desenvolvimento, para que você possa ser a sua melhor versão.
+
+
+
+Aqui, somos comprometidos com um ambiente inclusivo e diversificado, onde as nossas pessoas podem trazer o seu melhor. Trabalhamos com comitês étnico racial, gerações, women in tech, profissionais com deficiência, LGBTQ+ e crenças e religiões, pensando constantemente em ações de inclusão de responsabilidade social, a fim de construir a Avanade que respeita a individualidade.
+
+
+
+Com a manipulação de dados e criação de modelos estatísticos. Implementar métricas de acordo com o objetivo do projeto. Criar visualizações de dados para explicar suas análises e conclusões para uma audiência não-técnica, assim como contextualizar a narrativa (data storytelling). Focar em experimentação e em gerar valor para o cliente final.
+
+
+
+Experiência em Machine Learning/Deep Learning;
+
+Domínio de técnicas de Machine Learning;
+Conhecimento em aplicação de algoritmos: DecisionTree, RandomForest, XGBoost, NeuralNetworks, K-means, DBSCAN, PCA, TSNE, LDA, SVM, dentre outras;
+Programação em R ou Python;
+Estatística intermediária;
+Conhecimentos avançados em SQL para exploração, tratamento e preparação de dados;
+
+Capacidade de realizar trabalhos colaborativos;
+Perfil curioso e inovador.
+
+
+
+Experiência com as Ferramentas Azure para Dados;
+Ter conhecimento de metodologia ágil
+MLOps e DevOps
+
+
+
+
+
+
+
+
+Avanade leads in providing innovative digital services, business solutions and design-led experiences for its clients, delivered through the power of people and the Microsoft ecosystem. Our professionals combine technology, business and industry expertise to build and deploy solutions to realize results for clients and their customers. Avanade has 29,000 digitally connected people across 23 countries, bringing clients the best thinking through a collaborative culture that honors diversity and reflects the communities in which we operate. We welcome all, and seek talented individuals who can bring their whole self to work, build inclusive teams and encourage diversity inside and outside the organization. Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com .
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Job Description
+
+Tecnológicos, inquietos e ousados, bem vindos à Cortex!
+
+Somos a plataforma líder de Growth Intelligence do Brasil. Growth intelligence é o uso de ciência de dados e Big Data em informações do mercado e do cliente para alavancar resultados de marketing e vendas.
+
+Nosso propósito é , em junho de 2020 nos tornamos a e com o , entramos em um seleto grupo de empresas sul americanas que estão fazendo história. 🚀
+
+Somos um time de Trabalhamos duro, assumimos responsabilidades e riscos, mas também nos divertimos enquanto isso.
+
+Nossa cultura estimula a. Valorizamos a troca de conhecimentos, aprendemos juntos, respiramos inovação e gostamos de celebrar nossas conquistas.
+
+Aqui você vai encontrar um , onde você pode se manifestar e ser quem você é! Buscamos pessoas que, assim como nós, acreditam que o mundo evolui rápido e que inovar sempre é possível.
+
+
+
+Na Cortex a área de produto é central. Com o crescimento dos últimos anos e perspectiva atual, o desafio é aumentar drasticamente a escala da plataforma da Cortex, aumentando conversão de vendas, engajamento e NPS, e diminuindo custo de atendimento.
+
+O time de produto é composto por 3 grandes tribos, focadas no valor entregue aos nossos públicos principais e na evolução do nosso produto.
+
+
+Como você vai trabalhar em todas as tribos, sendo responsável por projetar, corrigir e implementar novas funcionalidades que garantam o sucesso dos casos de uso existentes ou de novos casos de uso do produto e participando do nosso grande desafio de
+
+Main responsibilities
+
+
+
+
+
+
+
+Additional information
+
+Tecnológico, inquieto e ousado, bem-vindo à Cortex!🚀
+
+Nós somos a plataforma líder de Growth Intelligence do Brasil e construímos a empresa a partir de nossa paixão por desenvolver uma tecnologia altamente inovadora!
+
+Mas o que é Growth intelligence? É o uso de ciência de dados e Big Data para alavancar resultados de comunicação, marketing e vendas.
+
+Nosso propósito é simplificar dados com inteligência transformando o caminho de pessoas e negócios, em junho de 2020 nos tornamos a maior aposta de inteligência de dados da América Latina e com o aporte de R$ 170 milhões da SoftBank Group e Riverwood Capital, entramos em um seleto grupo de empresas sul americanas que estão fazendo história. 🚀
+
+VEM FAZER PARTE DO TIME! #BECORTEX
+
+Conheça mais sobre nós 🚀
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Enviar mensagem direta ao anunciante da vaga na Localiza
+Lana Silva
+Analista de Recursos Humanos | Localiza
+LOCALIZA
+Somos uma empresa presente no futuro. Em nossa história, sempre trouxemos para o agora ideias que pareciam existir somente anos à frente. Enxergamos o amanhã pelas lentes do nosso espírito empreendedor e pela nossa paixão pelos clientes. 
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Lazer, viagens e turismo
+FORMAÇÃO ACADÊMICA
+Superior em Ciências da Computação, Engenharia da Computação, ou similares;
+Pós-graduação em Ciência da Computação, Geoprocessamento, Business Infromation, Bigdata, analitcs ou Similares
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Negócios em geralTecnologia da informaçãoCiências
+Setores
+Seguros
+O que é preciso para fazer parte do nosso time?
+ - Superior completo em Estatística, Engenharia, Matemática, Tecnologia da informação ou áreas afins;
+ 
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+AnalistaTecnologia da informaçãoDesenvolvimento de negócios
+Setores
+ConstruçãoEngenharia civil
+Estamos em busca de Desenvolvedor(a) Back-End com espírito de equipe, proatividade, mão na massa e que queiram trabalhar com tecnologia de ponta em produtos de inteligência artificial.
+
+Criar modelos preditivos é um desafio. Precisamos processar e entender grandes volumes de dados e transformar sistemas preditivos em inteligência para negócios.
+
+Como Desenvolvedor(a) Back-End, você terá a oportunidade de contribuir utilizando as habilidades necessárias para superar estes desafios. Você também aprenderá muito sobre Aprendizado de Máquina.
+
+Na Kunumi você vai
+
+
+As principais responsabilidades são
+
+
+Local de trabalho
+
+Rio de Janeiro, alocado em cliente.
+
+
+
+Essa vaga se aplica a você se
+
+
+Vamos gostar ainda mais se você tiver experiência com
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Internet
+Nível: Analista
+Área: Tecnologia da Informação
+Escolaridade: Graduação - Ciência da Computação - Completo
+Tipo de contrato: CLT
+Jornada de trabalho: Tempo integral.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+REQUISITOS: 
+Graduação completa em Estatística ou Ciência da Computação;
+Desejável pós graduação em áreas afins;
+Conhecimento em linguagens de programação: R, Python, outros;
+Conhecimento em Inteligência Artificial e Aprendizado de Máquina;
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Provedor de assistência médica
+Setores
+Saúde, bem-estar e educação física
+Oportunidade
+
+Estamos em busca de um(a) data scientist para trabalhar em um projeto financiado pela FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo), dentro do programa PIPE (Pesquisa Inovativa em Pequenas Empresas), em um desafio inovador, com duração de 18 meses. Procuramos um profissional que combine com o nosso Jeito de Ser e que queira atuar com Data Science em uma startup de tecnologia com grande potencial de crescimento! Aqui você poderá aprender em um ambiente descontraído, com flexibilidade para trabalho e autonomia.
+
+Local: Vila Olímpia, São Paulo (pós pandemia) + Home Office
+
+Horário: Flexível
+
+Remuneração: bolsa Fapesp TT-4A (valores disponíveis em http://www.fapesp.br/3162)
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Recrutamento e seleção
+Para você que curte ciência de dados e tem vontade de trabalhar criando modelos com dados do maior dataset da américa latina. Aqui você terá a oportunidade de trabalhar em um ambiente descontraído, sempre buscando a excelência e totalmente voltado para inovação.
+
+
+
+
+Curtiu o desafio? Veja em mais detalhes os conhecimentos necessários:
+
+
+
+
+
+Curtiu? Sim?! Venha se juntar a nós e criar um amanhã melhor!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareServiços financeiros
+Você é apaixonado por Análise de Dados?
+
+Quer trabalhar em um dos maiores Institutos de Técnologia do Brasil?
+
+Tem conhecimento em Linguagem SQL? Deu match? Essa oportunidade é para você.
+
+#VemSerEldorado
+
+
+
+Atuar na análise estatística de dados coletados automaticamente de smartphones;
+
+Buscar correlações entre dados, buscando identificar causa raiz de problemas identificados por consumidores;
+
+Produzir relatórios a respeito de análises realizadas e causas de problemas identificados;
+
+Apoio na criação e manutenção de ferramentas para apresentação de dados;
+
+Apoio no processo de melhoria contínua do software dos smartphones desenvolvidos.
+
+
+
+Formação superior em andamento em Ciência ou Engenharia da Computação, Análise de Sistemas ou áreas similares;
+
+Conhecimento em linguagem SQL para consultas a grandes quantidades de dados (BigData, BigQuery);
+
+Desejável conhecimento em desenvolvimento usando linguagens R e/ou Python, para automações;
+
+Desejável conhecimento em desenvolvimento Web Frontend, como Angular;
+
+Inglês Intermediário/avançado para conversação, escrita e leitura.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Somos uma empresa global, líder em gestão de ativos alternativos. Possuímos operações que englobam geração, transmissão e distribuição de energia elétrica, distribuição de gás, estradas pedagiadas, ferrovias, portos, data centers, entre outros.
+Os segmentos em que atuamos compõem a espinha dorsal da economia global e nossas operações empregam mais de 100.000 pessoas em mais de 30 países.
+
+
+
+Desenvolver projetos de Inteligência Artificial e Data Science para apoiar os negócios do grupo em grandes desafios e alavancar atividades de Auditoria e Forense.
+
+
+
+
+
+
+
+
+
+At Brookfield, we care about your privacy and strive to protect Applicant Data throughout the recruitment process. To that end, information that we gather from applicants via job postings, is used solely for the purposes of recruiting and hiring.
+
+https://www.brookfield.com/applicant-data-protection-and-privacy-notice
+Exibir mais
+Nível de experiência
+Estágio
+Tipo de trabalho
+Estágio
+Função
+Outro
+Setores
+Serviços financeirosSetor imobiliárioGestão de investimentos
+Descrição da Vaga
+
+O PagSeguro foi criado para oferecer soluções inovadoras, simples e seguras em meios de pagamento. Trabalhando conosco, você tem a oportunidade de fazer a diferença na vida de milhões de brasileiros e construir novas formas de se fazer e receber pagamentos.
+
+Trabalhamos em times multidisciplinares e cultivamos uma filosofia de trabalho ágil e enxuta, com as áreas de Tecnologia e de Negócios trabalhando lado a lado para criar produtos que evoluam de forma interativa para entregar valor aos clientes.
+
+Requisitos
+
+
+Desejável
+
+
+Principais atividades
+
+SOBRE NÓS
+
+Nascemos em 2006 com o propósito de revolucionar o mercado de meios de pagamento e promover soluções inovadoras em serviços financeiros. Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Acreditamos tanto no potencial da tecnologia, que criamos o PagBank, um banco digital, que visa democratizar os serviços financeiros no Brasil.
+
+Hoje somos gigantes e seguimos impactando a vida de milhões de pessoas diariamente, oferecendo serviços rápidos, simples e seguros.
+
+Tudo isso só possível, pois aqui, no PagSeguro PagBank, a pesquisa e a inovação fazem parte do nosso DNA, compartilhamos experiências com profissionais talentosos e criativos, em um ambiente colaborativo, onde o aprendizado é garantido.
+
+Quer fazer parte dessa história? Confira nossas vagas e #vemproPags.
+
+NOSSAS REDES
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Analisar, explorar e minerar grandes quantidades de dados para a geração de insight e padrões que permitam identificar oportunidades e melhorias na empresa. Desenvolver modelos quantitativos aplicados aos negócios para resolver problemas e gerar vantagem competitivas nas diferentes areas de negócio da empresa.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Varejo
+Área De Atuação
+
+Informática / TI / Tecnologia
+
+Localização
+
+Rio de Janeiro-RJ
+
+
+
+Curso superior completo em Informática, Ciência da Computação, Análise de Sistemas, Engenharia de Produção, Engenharia da Computação, Matemática, Estatística, Economia. Capacitação: Cursos nas ferramentas estatísticas SAS e R, com no mínimo 24 horas cada.
+
+
+
+Experiência: Mínimo de 06 (seis) anos em desenvolvimentos de projetos de BI/DW e Big data.
+Qualificações pessoais desejáveis: saber resolver problemas, capacidade de trabalhar em equipe, comprometimento, organização, boa comunicação e pro-atividade.
+
+
+
+Sem informação
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Recursos humanos
+CIENTISTA DE DADOS SENIOR
+Vem pra nossa revolução...
+O Banco Inter é o primeiro banco 100% digital do Brasil e o único a oferecer uma conta completa e totalmente isenta de tarifas. Acreditamos que a relação das pessoas com seu banco pode ser muito mais simples, transparente e justa. E estamos fazendo essa transformação acontecer.
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareServiços financeiros
+Estamos em busca de uma pessoa comunicativa, proativa, analítica, organizada, bem humorada, com o bjetivo de fazer análises de dados para criar campanhas, estratégias novas de negócio e identificar oportunidades para empresa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44 horas semanais
+
+
+
+Vale transporte
+
+Plano de Saúde
+
+Plano Odontológico
+
+
+
+CLT
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Gestão educacional
+Venha ser um ClickBuser! 🚌🚌🚌
+
+A ClickBus é a maior plataforma online de vendas de passagens rodoviárias no Brasil, temos como um de nossos valores o foco no cliente e por isso somos incansáveis na busca por inovação do setor.
+
+está em nosso sangue, aqui levamos muito em conta a inclusive nosso , somos todos responsáveis pela busca por novos integrantes para embarcar nesse busão acelerado!
+
+
+Como analista de Ciência de Dados, membro do time de Data & Insights, você terá um papel crucial na descoberta e na aplicação de soluções e insights: suas análises e modelagens (estatísticas e de machine learning) influenciarão a forma como os líderes tomarão decisões e como a ClickBus entrega valor para seus usuários, suprindo as equipes com projetos focados em desempenho e inovação interna. Seu dia a dia no busão será incrível! Você será responsável por:
+
+
+
+
+
+
+
+
+
+
+
+: Durante a pandemia estamos trabalhando de pois nossos ClickBusers são nosso maior ativo e cuidar deles é o que importa! Quando tudo isso passar, retornaremos ao escritório em São Paulo, seguindo todas as normas e sempre pensando na saúde de nossas pessoas.
+
+Venha fazer parte dessa equipe que!
+
+Curtiu? Bora se candidatar então?! 🚌🚌🚌
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Lazer, viagens e turismo
+A C&A é muito eu
+
+E trabalha para você ser muito você em todos os momentos, começando pela sua carreira
+
+Referência no varejo de moda, a C&A se orgulha de ter mais de 14 mil pessoas atuando em suas operações no Brasil para oferecer a melhor experiência para nossas clientes!
+
+Trabalhar na C&A é fazer parte de um e , que estimula o desenvolvimento profissional em todas as fases da carreira.
+
+Aqui você pode ser quem é! O às pessoas e à fazem parte dos nossos valores.
+Enxergamos a moda como uma plataforma de expressão e de como as pessoas se conectam.
+
+Queremos fazer uma moda com impacto positivo, o que nos torna únicos. Nossa cultura acredita no valor e na riqueza das diferenças. Somos uma multinacional com alma brasileira.
+
+Curta nossa página de carreira no Linkedin para saber mais sobre nosso dia-a-dia!
+
+Se você se identifica com a C&A e procura uma empresa, acima de tudo, apaixonada por pessoas, atuar como:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Roupas e moda
+Quer fazer parte da imobiliária mais inovadora de Santa Catarina?
+
+Estar em um time focado em qualidade e desenvolvimento?
+
+Mudar vida das pessoas através da experiência dos serviços oferecidos?
+
+Então sua oportunidade está aqui!!
+
+
+
+Irá atuar no DHO, área de Desenvolvimento de Pessoas, realizando o processamento e apuração de indicadores de desempenho, elaboração de Dashboards, planilhas automatizadas, coleta e organização de dados.
+
+
+
+Ensino Superior cursando em Ciência da Computação, Ciência de Dados, Economia, Engenharia, Matemática ou áreas afins;
+
+Excel;
+
+Organização;
+
+Proatividade;
+
+Boa comunicação;
+
+Boa capacidade analítica;
+
+Disponibilidade de 30 horas semanais (segunda a sexta).
+
+
+
+Local: Home Office;
+
+Horário: 08h00 as 14h00;
+
+Bolsa Estágio: R$ 1200,00;
+
+Plano odontológico.
+
+Nossa história é feita de pessoas e sonhos!
+
+Mais de meio século de história deram à Brognoli a experiência necessária para assumir a liderança no mercado imobiliário na Grande Florianópolis.
+
+Estamos sempre em busca de prestar a melhor consultoria imobiliária aos nossos clientes, por isso estamos engajados em ser a melhor imobiliária digital até 2021.
+
+Gostou? Então venha fazer parte dessa história! :)
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeRecursos humanosConsultoria de gerenciamento
+Job Description
+
+Sonhamos alto e apostamos no potencial de todos os nossos colaboradores e nossas colaboradoras, acreditando que cada um tem um papel fundamental na nossa jornada. A Dasa tem o compromisso de criar uma organização onde todos e todas tenham oportunidades iguais de desenvolvimentoNosso dia a dia é movido por uma , que busca a equidade e valoriza as diferenças. Dessa forma, buscamos pessoas cada vez mais e inovadoras que nos ajudem a atender com a todos os nossos pacientes. Todas as nossas vagas respeitam esse compromisso com a Diversidade & Inclusão.
+
+Se você tem trabalha come quer uma empresa onde você tenha uma enorme oportunidade de , vem pra Dasa! Aqui, temos as e a atuação de todas elas tem um propósito maior: transformar a saúde das pessoas, cada uma #Doseujeito!
+
+Neste desafio, buscamos por pessoas para atuarem como
+
+Esperamos encontrar pessoas que sejam ousad@s e façam acontecer.
+
+Main responsibilities
+
+
+
+
+Additional information
+
+
+Somos a maior empresa de Medicina Diagnóstica da América Latina!
+
+Isso só é possível porque temos mais de 24 mil colaboradores imbuídos em um mesmo propósito:
+
+Ao longo dos anos, integramos laboratórios líderes no , que trouxeram sua expertise em serviços diagnósticos de análises clínicas, exames por imagem e medicina genômica. São , que atuam no mercado privado de saúde, hospitais, laboratórios e sistema público de saúde. Realizam, em média, 250 milhões de exames por ano e possuem um portfólio de mais de 5 mil tipos de exames.
+
+Aqui na DASA, consideramos um fator determinante para a evolução dos cuidados com a saúde. Buscamos, de maneira contínua, integrar e disponibilizar soluções inovadoras como o Cubo Health, ecossistema de startups e o EXP, espaço de inovação e células ágeis.
+
+
+
+que busca a equidade e valoriza as diferenças. Para isso, nossos times se baseiam em valores organizacionais amplamente divulgados, sendo o principal deles
+
+
+
+https://dasaexp.gupy.io/
+
+Saiba mais sobre a Dasa
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+O Cientista de Dados fará parte de um projeto inovador e repleto de desafios que utiliza técnicas de Machine Learning e ferramentas de Big Data para a área de Planejamento Agrícola. Buscamos profissional para atuar na captura e exploração de dados diversos, visando transmitir resultados que agreguem valor à resolução de problemas complexos e à tomada de decisão gerencial.
+
+
+
+Conduzir projetos e iniciativas de Big Data e Machine Learning, com o objetivo de identificar oportunidades de negócio em diversas frentes (geração de receita, redução de custo, novos negócios), propor melhorias no processo de coleta e disponibilização de dados.
+
+Interagir com múltiplos stakeholders para garantir entendimento adequado dos problemas e assegurar uso das soluções de Data Science nos processos-chave.
+
+Gerar insights não-triviais através da análise dos comportamentos dos dados utilizando técnicas estatísticas (e.g., algoritmos não-supervisionados);
+
+Tratar a massa de dados (estruturados e não estruturados) e fazer uso de matemática, estatística para limpar, tratar e organizar os dados
+
+Limpar e organizar os dados para alimentar programas analíticos que preparam os dados para seu uso na modelagem preditiva.
+
+
+
+Formação em Estatística, Matemática, Física, Computação ou Engenharias;
+
+Experiência profissional na área de Ciência de Dados em projetos de BigData e Analytics e com aplicação de projetos utilizando séries temporais (forecasting), redes neurais, sistemas de recomendação, clusterização, árvores de decisão e análise de comportamento;
+
+Conhecimentos avançados no desenvolvimento e aplicação de algoritmos aplicados a Data Science para a resolução de problemas;
+
+Excel Intermediário/Avançado; SQL Intermediário/Avançado; PowerBI/Qlik Intermediário; Banco de Dados; Data Warehouse ; Estatística/Python/R Avançado
+
+BigData e Machine Learning Avançado.
+
+
+
+Empresa oferece amplo pacote de benefícios.
+
+Programa de Participação nos Resultados.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Agricultura
+Missão
+Sua missão será transformar dados em informações para todos os nossos times internos.
+ No seu dia a dia você irá:
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informaçãoAtendimento ao Cliente
+Setores
+Serviços financeirosTecnologia da informação e serviços
+Job Description
+
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes.
+
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!
+
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+
+
+
+Cadastre-se agora mesmo em nossas vagas!
+
+Main responsibilities
+
+Como Cientista de Dados você terá atuação chave nos projetos e consultoria. Com reporte direto ao Data Science & Analytics Lead irá apoiar ativamente nas implementações técnicas, será responsável por todo o desenvolvimento de modelos e análises dos projetos, participará da criação de produtos e soluções, construindo os processos e utilizando as ferramentas necessárias para um trabalho de excelência. Dará apoio na identificação de oportunidades e riscos, trabalhando sempre colaborativamente com outras especialidades de modo a maximizar a geração de valor pra nossos clientes internos e externos.
+
+Como Cientistas de Dados as atribuições se resumem em:
+
+
+
+
+Conhecimento técnico em ciência de dados, incluindo técnicas estatísticas avançadas de Machine Learning e Deep Learning:
+
+
+
+
+
+
+
+
+Additional information
+
+
+
+
+Vem trabalhar com a gente!
+
+A é referência em consultoria e outsourcing para soluções de Data Analytics há 20 anos, atendendo os clientes nos mais diversos segmentos de mercado como Financeiro, Meios de Pagamento, Varejo, Seguros, Saúde, Manufatura, Governo e outros. Nossa sede está localizada no maior centro econômico da América Latina e atuamos em território nacional e internacional.
+
+Em nosso porftólio de serviços ofertamos consultoria especializada, alocação de profissionais, treinamento e desenvolvimento de soluções customizadas para Cloud Computing, Business Intelligence, Big Data, Data Analytics, Machine Learning, Inteligência Artificial, Data Quality, MDM, Governança de Dados e demais soluções de dados.
+
+A Leega em outras plataformas
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+A vida adulta chega na forma de um boleto, mas quem disse que a gente precisa lidar com isso sozinhos?
+
+O Guiabolso é um aplicativo de controle financeiro que existe há 8 anos pra ajudar os brasileiros a fazerem escolhas “dinheirísticas” mais espertas e, aos poucos, fortalecer uma comunidade que, unida, consegue jogar melhor esse jogo, forçando o sistema financeiro a melhorar suas práticas.
+
+Acreditamos que as melhores ideias surgem quando as pessoas estão trabalhando por um propósito maior. Aqui você pode aprender, ter grandes desafios e transformar a vida de milhões de pessoas todos os dias enquanto se diverte.
+
+“E o que é que eu vou fazer?”
+
+Como Cientista Sênior em Ciência de dados você deverá liberar as iniciativas de desenvolvimento de modelos de Machine Learning com aplicações para crédito.
+
+
+
+
+“Beleza! E que conhecimentos e experiências eu preciso ter para assumir essa posição?”
+
+
+
+
+
+“O que fazem? Como vivem? O que comem os guias?”
+
+Are you ready for, ready for… Todas as sextas-feiras, pontualmente às 18h, temos a nossa Green Friday, mas calma, eu te explico: esse é nosso happy hour pra gente contar tudo de melhor (ou engraçado) que aconteceu na semana, brindar com chope e dançar muito (mesmo remoto!)! A galera veste verde, em homenagem ao primeiro logo do nosso app, lá de 2012. Já separa sua camiseta dessa cor!
+
+Mas tá pensando que é só festa? Também rolam várias iniciativas para todo mundo se desenvolver e aprender junto. A Blue Tuesday, por exemplo, é um café da manhã especial dedicado para alguma área compartilhar conhecimento.
+
+Aqui, todo mundo tem liberdade para começar projetos como esses, como foi o caso também das comissões da Diversidade, de Feedback, clube do livro, aula de programação e até a Guiaband, a nossa banda.
+
+Tá afim de fazer parte dessas iniciativas e trabalhar com gente incrível? Vem ser Guia!
+
+“E o que rola de benefícios?”
+
+Um VR da bandeira Mastercard que permite que você faça escolhas mais personalizadas todos os dia, alocados de acordo com a sua necessidade, para almoçar com a galera do seu time e fazer aquele happy hour;
+
+Plano odontológico;
+
+Plano de saúde;
+
+Gympass;
+
+Um dia de folga na semana do seu aniversário para você curtir do jeito que quiser;
+
+Seguro de vida.
+
+“Acha que essa vaga não é pra você?”
+
+Que tal compartilhar com um amigo ou amiga que tem a cara dessa vaga? É só clicar em um dos botões aqui em baixo!
+
+O Guiabolso acredita na importância da integração social e valoriza a inclusão: por isso todas as nossas vagas estão abertas para pessoas com deficiência.
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Serviços financeiros
+Sobre a empresa: A Big Data é pioneira e líder no Brasil em Inteligência Artificial aplicada a negócios, ajudando clientes como AMBEV, BRF, Ipiranga e Boticário. O momento agora é de expansão internacional, e queremos gente com sangue no olho e cabeça boa para nos ajudar a atingir o objetivo de ser uma líder global em IA.
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Nível: Analista
+Área: Tecnologia da Informação
+Escolaridade: Graduação - Indiferente
+Tipo de contrato: PJ
+Jornada de trabalho: Semi-flexível8 horas (entre as 08:00 às 19:00).*Estamos todos em home office, no entanto, adotamos a modalidade híbrida de trabalho, que significa que nosso escritório se encontra disponível, mediante agendamento de estações de trabalho, para encontros pontuais, reuniões de time, recepção de clientes, comemorações ou para quem deseja (opcional) trabalhar até duas vezes na semana presencialmente.
+
+Ajuda de Custo de R$ 777,00, 13º Salário, Férias Remunerada
+
+
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+
+REQUISITOS E QUALIFICAÇÕES
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Participe gratuitamente do processo seletivo para Cientista de Dados!
+
+Atividades
+
+Construir modelos preditivos utilizando técnicas de aprendizado de máquina que geram actionable insights para solucionar problemas de negócio.
+
+
+
+
+
+
+Vale Alimentação, Vale Transporte, Convênio com Academia, Convênio Médico, Convênio Odontológico, PLR, Previdência Privada, Seguro de Vida, Outros
+
+Gostou desta vaga? Se identificou com o perfil? Então aproveite e candidate-se agora!
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Como é o ambiente de trabalho?
+
+Somos puro calor humano e trabalhamos todos os dias com o mesmo objetivo: levar ao acesso de muitos o que ainda é privilégio de poucos. Aqui trabalhamos muito e comemoramos na mesma intensidade! Não estranhe se nos vir fantasiados depois de batermos uma meta de Black Friday! Somos ousados e não temos medo de errar, somos colaborativos e temos espírito de equipe, todos esses valores estão sempre presentes por aqui. Venha compartilhar conhecimento e impactar a vida de milhares de pessoas no Brasil! #vemserfeliz #OrgulhodeSerMagalu #Recrutamento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O Magalu promove a diversidade.
+Aqui você é bem-vindx em todas as vagas independentemente de gênero, orientação sexual, raça, etnia ou deficiência.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Marketing e publicidadeRecrutamento e seleçãoRecursos humanos
+O que vamos construir juntos?
+
+Projeto App Pontos e Fidelidade / Aplicação de Gestão de Pontos.
+
+Interação com Big Data e Google Cloud / 95% Utilização de Cloud e o restante ecossistema Hadoop.
+
+
+
+Possuir uma Visão Sistêmica, Capacidade Analitica, Auto Gerenciável.
+
+Backgroud de desenvolvedor para interfaces, aplicações com bons conhecimentos em :
+
+
+
+
+Vale Refeição;
+Vale Transporte;
+Assistência médica e odontológica;
+Dresscode: seja você!
+Diversidade
+
+Tratamos a todos indistintamente e não toleramos preconceito e discriminação em qualquer relação com o nosso público, sejam clientes, fornecedores, prestadores ou colaboradores.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Software
+Descrição de Funções
+Como Engenheiro (a) de Dados, você será responsável por transformar, processar e manipular conjuntos de dados distribuídos em diferentes ambientes para a análise, ajudando-nos a acelerar os recursos de Ciência e Análise de Dados em toda a América Latina. Trabalhará diretamente com o time de Ciência e Análise de Dados Internacional,localizado nos EUA, visando executar e fornecer a análise e os conhecimentos necessários para suportar a transformação digital do Banco. Faça parte de uma equipe apaixonada por fazer a diferença aplicando técnicas de ciência e análise de dados para resolver problemas e impulsionar ações. Além disso, você será responsável por
+
+
+
+
+Estamos em busca de um(a) profissional com foco em resultado, bom relacionamento interpessoal, tomada de decisão, visão estratégica e capacidade de inovação. Além disso, também buscamos as seguintes qualificações
+
+
+
+
+
+
+
+
+
+
+Indaiatuba - SP (Próxima de SP e de Campinas, além de uma das melhores cidades do Brasil para se morar em termos de qualidade de vida e IDH)
+
+
+CLT + VA no valor de R$ 609,00/mês + VR de R$ 35,00/dia (+- R$ 770,00/mes) + Fretado (Saindo de Campinas) ou VT dentro de Indaiatuba + PLR de até 2 salários/ano atrelado ao desempenho da empresa.
+AM Unimed + AO Bradesco + Auxilio Farmácia, entre outros.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+PRAZER, SOMOS A STECH! O TIME DE TECNOLOGIA DA STONE:
+
+Aqui na Stech, prezamos pela liberdade e autonomia. Liberdade para escolher seus horários, suas stacks, a forma como você vai trabalhar e mais importante, liberdade de ser quem você é. Você vai ter autonomia para fazer as suas escolhas e será cobrado por elas. Somos todos adultos e gostamos muito de um termo chamado “Accountability”, que podemos traduzir para responsabilidade pelos seus resultados. Queremos que você procure primeiro entender, para depois ser entendido. Mas não se preocupe, você sempre será ouvido, sua opinião conta e conta muito. Por último, e com muita importância para nós: Nós prezamos pela troca de conhecimento. “Be humble and kind”, esteja sempre de coração aberto para aprender novas formas de pensar e conhecimentos diferentes. Queremos achar em vocês inteligência, energia e integridade. E em troca, oferecemos autonomia, liberdade e flexibilidade.
+
+
+
+
+
+Na Tesouraria Stone Co. temos como missão manter nosso grupo saudável financeiramente, arcando com todas as obrigações de forma eficiente, além de garantir que todos os produtos que necessitam de recursos financeiros em suas operações sejam viáveis, sem comprometer a liquidez do grupo.
+
+Isso é uma senhora responsabilidade, operamos bilhões de reais diariamente para alcançarmos tal objetivo.
+
+
+
+Procuramos engenheiros de software criativos, responsáveis, com energia e que tenham foco em resolver o problema do cliente com qualidade. Também valorizamos suas habilidades práticas de desenvolvimento e capacidade de trabalhar bem em equipe.
+É importante destacar também que você precisa gostar do “economês”, já que o nosso produto tem grande relação com o mercado financeiro.
+
+
+
+Você irá projetar, desenvolver, testar, implantar, manter e melhorar o software.
+Você gerenciará as prioridades, prazos e trabalhos individuais do projeto.
+Você terá que traduzir requisitos funcionais e técnicos em arquitetura e design detalhados de soluções, direcionando o time na direção correta e com visão de longo prazo.
+Você precisará instruir o time em boas práticas de desenvolvimento, padrões de projeto, testes e revisão de código.
+Você irá ser um guardião das nossas boas práticas e documentações, cultivando e desenvolvendo-as com o time.
+É esperado de você extrema facilidade de trabalho em equipe, muita franqueza e transparência para que no dia-a-dia possa dar bons feedbacks e transmitir o conhecimento para os demais do time.
+É esperado de você respeito e compromisso com o desenvolvimento dos demais colegas do time, ajudando no direcionamento da carreira e na evolução constante.
+Nossos Requisitos Técnicos
+
+
+
+
+
+
+Convênio SESC (gratuito); plano de saúde e odontológico (Bradesco TNQ2 sem co-participação) com Concierge.
+
+Auxílio-creche para crianças até 5 anos.
+
+Gympass (bora malhar!!!); horário flexível; trabalho remoto; dress code informal; seguro de vida; vale Transporte (se quiser, é opcional); vale refeição e/ou vale Alimentação e bicicletário
+
+Super incentivamos idas a eventos e treinamentos, e se fizer sentido na estratégia, melhor ainda (qualquer um pode pedir); trabalhar com referências técnicas; eventos internos (hackathon, black friday,confraternizações das tribos, datas comemorativas) e aprendizado contínuo.
+
+
+
+
+
+Aproveita e dá uma olhada no conteúdo que preparamos para você, assim você fica por dentro de tudo que acontece no nosso processo seletivo: Book do Candidato Stech
+
+“Cultivando um ambiente aberto e inclusivo, na Stone respeitamos e valorizamos as diferenças. Por isso, todas as nossas posições são elegíveis para pessoas com deficiência. Nosso sonho é do tamanho do universo e, se você se identifica com o nosso propósito, venha construi-lo com a gente!”
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Tweet
+
+Share
+
+Job Description
+
+A Monitora é uma empresa de tecnologia que conta com um ambiente descontraído e acolhedor. Procuramos por pessoas que gostem da ideia de aprender algo novo todos os dias, e de conviver com pessoas e estilos de trabalho diferentes. Que é apaixonado por Dados, tenha uma visão crítica e analítica de Big Data e Ciência de Dados. Essa vaga é para quem gosta de desafios, que curte dar o seu melhor, que irá trabalhar com uma das seções mais inovadoras em TI e gosta muito de lidar com pessoas. Queremos alguém que veste a camisa, tem senso de dono e está disposto(a) a resolver problemas com proatividade e criatividade. Vem fazer parte do #MelhorTime.
+
+*Atenção verifique seu e-mail para que a notificação de mensagem na plataforma não seja direcionada ao spam.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DESENVOLVEMOS GENTE E CRIAMOS O FUTURO
+
+Somos apaixonados por desenvolvimento de software, e dessa maneira, valorizamos profissionais eficazes para implementar soluções digitais inovadoras e personalizadas, de forma participativa. Agilidade e inovação estão no nosso DNA. Não temos medo de mudanças.
+
+Acreditamos no potencial de crescimento do nosso time e investimos nisso. Proporcionamos aos nossos colaboradores a possibilidade de se desenvolverem cada vez mais na empresa, para que nunca deixem de evoluir na vida profissional e pessoal.
+
+TOPA O DESAFIO?
+
+#VemPraMonitora
+
+
+
+Apply!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Vaga de Desenvolvedor em Rio de Janeiro. A combinar. Período Integral. Efetivo – CLT Área e especialização profissional: Informática, TI, Telecomunicações - Programador / Desenvolvedor Nível hierárquico: Analista Local de trabalho: Rio de Janeiro, RJ Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Ensino Superior completo ou cursando em Ciência da Computação, Tecnologia da Informação ou áreas afins Experiência anterior como desenvolvedor Excelente algoritmo e lógica de programação Linguagem SQL intermediária a avançada Padrões de orientação a objetos e versionamento de código. O que você vai fazer: Atuar com desenvolvimento evolutivo e corretivo de sistemas desktop e web; Trabalhar com consultas e rotinas em banco de dados SQL Server e construção de reports, com predomínio atual das tecnologias Microsoft VisualFox e .Net. Benefícios adicionais: Assistência médica, Assistência odontológica, Vale-alimentação, Vale-refeição
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+DATA SCIENTIST
+
+Cidade: Blumenau
+
+Empresa: Confidencial
+
+DESCRIÇÃO DA VAGA
+
+Para Movidesk - Startup na área de Tecnologia da Informação.
+
+
+
+
+
+Salário + Benefícios: VR ou VA R$ 27.00/dia, sem desconto em folha - inclusive nas férias; Seguro de Vida; Plano de saúde Unimed, sem mensalidade e subsídio de até R$ 500,00 para os Moviholics; Plano odontológico da Uniodonto, pago integral pela Movidesk, sem mensalidade nem co-participação; Day off no mês do aniversário; Licença maternidade estendida; Licença Paternidade; Curso de Inglês in Company pago pela Movidesk; Jornada de trabalho flexível; Convênios com restaurantes, cafés, farmácias, etc.; Estacionamento na empresa; Refeitório na empresa; Space Games (sinuca, pebolim, fliperama); Café na empresa com frutas e snacks diversos todas os dias; Ginástica laboral; No dress code - o importante é se vestir como se sentir melhor; Oportunidade de crescimento e desenvolvimento profissional; Cultura de feedback e desenvolvimento; Ambiente contagiante, acreditamos na força da diversidade e inclusão; Procuramos crescer juntos! Fazer parte dessa história será um case de sucesso!
+
+PERFIL DESEJADO
+
+
+
+
+
+Salientamos que a conferência e atualização de seus dados cadastrais são de extrema importância na continuidade do processo seletivo.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+Job Description
+
+Venha para a Ewave!!
+
+Main responsibilities
+
+
+
+
+
+
+
+Lógica de programação, Conhecimento de Python e suas bibliotecas;
+
+Conhecimento de SQL (construção e otimização de queries); Ferramentas de ETL;
+
+Álgebra Linear; Visualização de Dados; Data Mining; Estatística;
+
+Técnicas de pré-processamento de dados; Machine Learning: tipos de algoritmos (redes neurais, árvores de decisão, deep learning), tipos de treinamento (supervisionado, não-supervisionado e por reforço), métodos de avaliação (problemas de classificação e regressão);
+
+Boa comunicação dentro da equipe e externa;
+
+Boa compreensão para leitura e escrita de Inglês (principalmente textos e documentações técnicas).
+
+
+
+Métodos de otimização; Uso de ML em nuvem (GCP, Azure, AWS);
+
+Weka;
+
+Técnicas de redução de dimensionalidade dos dados;
+
+Redes Neurais auto-configuradas;
+
+Engenharia de Software;
+
+Cálculo (conceito de derivadas, gradiente, derivadas parciais, regra da cadeia)
+
+Additional information
+
+Contratação CLT
+
+Crie o mundo de amanhã, #vempraEwave
+
+O futuro oferece muitas oportunidades. Seja um dos primeiros a aproveitá-las.
+
+Criamos soluções para uma vida de inovação tecnológica e há muito mais potencial para nós explorarmos. Crie sua própria visão do futuro conosco e veja como as suas ideias moldam o mundo de amanhã.
+
+Você conhece bem esses momentos em que pensa: "eu faria diferente". Conosco você pode. Nos empenhamos continuamente para melhorar as tecnologias existentes, ao mesmo tempo que desenvolvemos soluções completamente novas. Você é bem-vindo para trazer novas ideias para inventar conosco uma vida que seja muito mais fácil, segura e inovadora.
+
+
+
+
+Sobre
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Enviar mensagem direta ao anunciante da vaga na Bynd
+Domingos Soares Neto
+CTO at Bynd| MSc. in Computer Science
+Vagas: Engenharia de Software
+
+O Bynd desenvolve tecnologias inovadoras de mobilidade urbana e hoje é a maior rede de caronas corporativas do país. Somos uma startup recém-investida e em plena expansão. Nossa tecnologia despertou o interesse de grandes empresas, dos principais veículos de imprensa e vem causando um grande impacto na sociedade e no meio-ambiente. Você quer se divertir e mudar o mundo? Então, embarque com a gente nesta jornada e venha construir o futuro da mobilidade! O time de tecnologia trabalha com:
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Internet
+Sua Contribuição Para Algo Maior é
+Utilizar as ferramentas e abordagens de MLOps, como: Kubernets, Jenkins, MLFlow, Spark, Git, etc.
+Implementar fluxos de trabalho desenvolvendo modelo para cientistas de dados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acolhemos a diversidade, por considerar que as diferentes perspectivas ampliam o olhar e promovem a criação de um ambiente plural, mais rico e desenvolvido culturalmente. Tratamos a todos indistintamente e não toleramos preconceito e discriminação em qualquer relação com o nosso público, sejam clientes, fornecedores, prestadores ou colaboradores.
+
+#VEMPRAVIA
+
+Conheça mais sobre a Via Varejo
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Varejo
+Olá, somos a Quanto!
+
+Conectamos e re-equilibramos mercados, utilizando tecnologia, dados e design para reconstruir o sistema financeiro em um sistema justo, transparente e inovador.
+
+A Quanto está construindo o futuro dos serviços financeiros no Brasil com uma plataforma completa de Open Banking. O mercado financeiro passará por uma transformação profunda nos próximos anos e você terá a oportunidade de construir a infraestrutura para um mercado mais competitivo e inovador.
+
+Com a nossa plataforma será possível que Startups, Bancos e outras empresas participem do Open Banking oferecendo a melhor experiência ao usuário, garantindo o controle da informação e a privacidade dele.
+Atualmente atuamos como parceira destas empresas intermediando a conexão de conta bancária e dados de cadastro.
+
+Possibilitaremos a distribuição de produtos e orquestração processos digitais com mais de um participante, além de apoiar o desenvolvimento de diversos novos produtos que estão surgindo neste novo mercado.
+
+Não fique de fora desta transformação e faça parte do nosso time.
+
+A Quanto é o "Android" que faltava para o sistema financeiro
+
+Nosso time de dados
+
+Na Quanto, é um dos princípios culturais que guia o trabalho de todos no dia a dia. Acreditamos que nossos times são mais eficazes quando tomamos decisões baseadas em dados rigorosos e raciocínio transparente.
+
+Estamos em busca de pessoas de Análise de Dados para nos ajudar a construir , processos, produtos e a plataforma de dados.
+
+Um bom para nós é alguém que: tem paixão por ser analítico; leva a sério a missão de ajudar as pessoas serem orientadas a dados; é focado no sucesso dos clientes e comprometido com entregas que agregam valor.
+
+Aqui você vai encontrar
+
+
+
+Esperamos de você
+
+
+
+
+
+
+
+
+
+
+Pensando em você preparamos o seguinte pacote de Benefícios
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Serviços financeiros
+Enviar mensagem direta ao anunciante da vaga na Yoctoo
+Karoline Mendes Bastos
+Researcher
+Missão
+
+Apoiar e suportar o time de Planejamento com a criação de cenários e insights a partir da mineração e análise de dados da empresa, usando algoritmos e criando / executando simulações, visando o balanceamento da cadeia de Supply para atendimento da demanda, maximizando a utilização com melhor custo possível. Suprir os gestores das áreas com informações estruturadas que suportem a tomada de decisão.
+
+
+
+Exibir mais
+Nível de experiência
+Executivo
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Produtos alimentícios
+Salário: A partir de R$ 4.700,00
+
+Horário: 40h Semanais. Segunda à Sexta-Feira, de 07:30 às 16:30, com 1 hora de intervalo.
+
+Ouro Preto/MG.
+
+
+
+Desde 2007, a Gerencianet simplifica o processo de recebimento de milhares de pequenas e grandes empresas em todo o Brasil, contribuindo para o sucesso na gestão financeira. Instituição de Pagamento autorizada pelo Banco Central, a Gerencianet foi fundada em Ouro Preto e conta hoje com escritório também em São Paulo. Nosso time é composto por profissionais capacitados e engajados que buscam, todos os dias, facilitar a vida de nossos clientes. Com uma cultura jovem, dinâmica e inovadora, nosso ambiente possibilita a interatividade e o desenvolvimento dos colaboradores. Junte-se à nossa equipe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Serviços financeiros
+Sobre a Bip
+
+O nosso propósito é provocar transformações significativas desafiando o status quo constantemente. Somos uma consultoria internacional, jovem, fundada na Itália em 2003 com um ecossistema em evolução que proporciona uma transformação significativa devido à sua abordagem personalizada, atitude de criador único e espírito pioneiro em um mundo de constante mudanças. Somos visionários e sonhadores, olhando as coisas por diferentes pontos de vista, almejando descobrir novas metodologias e processos que solucionam a complexidade do mundo atual causando impacto positivo.
+
+Com capilaridade global, possuímos cerca de 2.900 funcionários, com escritórios em 11 países e em 4 continentes, com projetos correntes em 42 países. No Brasil estamos presentes com escritórios em São Paulo e no Rio de Janeiro desde 2010 suportando grandes empresas através de projetos estratégicos e de transformação e atuando principalmente nos setores de Energia, O&G, Utilities, Serviços Financeiros, Telecomunicações, Varejo, Bens de consumo, Serviços e Agronegócios. A melhor maneira de materializar a nossa forma de atuação é através do nosso “HERE TO DARE”, bem evidenciado pelo nosso vídeo de apresentação
+
+A cultura da BIP está intrinsecamente expressa em nossos 4 valores de Flexibilidade, Inovação, Excelência e Integridade.
+
+
+
+
+
+
+
+Academia BIP com Webinars e Treinamentos à distância, incentivos ao conhecimento e Programa de mentoria e acompanhamento;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Consultoria de gerenciamento
+Se você busca desafios, trabalhar em um ambiente dinâmico e de crescimento acelerado, esta pode ser a sua oportunidade!
+
+O ASAAS é uma plataforma de emissão e gestão de cobranças que torna fácil e rápido o recebimento, o envio e o gerenciamento de dinheiro de empreendedores de todo o Brasil.
+
+
+
+Estamos em busca de pessoas talentosas, criativas e com excelente capacidade de análise. Você estará diretamente envolvido com o negócio da empresa, colaborando com a criação de indicadores e métricas para a tomada de decisões de toda a companhia! Achou interessante? Então vamos lá:
+
+
+
+
+
+
+
+
+Agora que você já sabe como é trabalhar no ASAAS, o próximo passo é enviar seu currículo!
+
+Boa sorte!!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Responsabilidades da Oportunidade
+
+Que Esperamos De Você
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+Aprendizado, exploração e auditoria de banco de dados;
+Desenvolvimento de queries em SQL e na ferramenta IBM Cognos (principal), Power BI e Python, visando prover informações ágeis e precisas que serão usadas pelos auditores internos, auxiliando-os nos projetos de auditoria e, pelos colaboradores das áreas de Prevenção de Perdas e de Compliance, auxiliando-os nas investigações;
+
+
+
+
+
+Desejável
+
+Additional information
+
+
+
+TRABALHE CONOSCO
+
+
+
+Encantar a todos é a nossa maior realização.
+
+É por meio da nossa sólida cultura, onde Encantamento e Gente são prioridades, que nos tornamos a maior varejista de moda do Brasil. Durante os nossos 55 anos, foram muitas transformações e, hoje, somos
+
+um ecossistema de moda e lifestyle formado pelas marcas: Renner, que tem roupas e acessórios em diferentes estilos; Camicado, empresa do segmento de casa e decoração; Youcom, especializada em moda jovem; e ASHUA Curve & Plus Size, que oferece roupas nos tamanhos 46 a 54. Atualmente, são mais de 600 lojas em operação, considerando todos os negócios. Nossa empresa ainda opera com a Realize CFI, que apoia a atividade de varejo, através da oferta e gestão de produtos financeiros.
+
+Com 100% do nosso capital aberto na bolsa, estamos listados no Novo Mercado, grau mais elevado dentre os níveis de governança corporativa da B3. Já atuamos em todos os estados brasileiros, no Uruguai e na Argentina.
+
+Também temos orgulho de dizer que Sustentabilidade é um dos nossos valores e por meio do Instituto Renner e de outras iniciativas, cuidamos do futuro.
+
+O nosso ambiente de trabalho é dinâmico, onde experiência, aprendizado e inovação acontecem o tempo todo. Estamos entre as 150 melhores empresas para se trabalhar no Brasil, entre as melhores em Gestão de Pessoas e ocupamos a primeira posição entre as empresas listadas no índice da Bolsa para questões sociais, ambientais e de governança.
+
+Nossa companhia valoriza a diversidade e atende a todos os estilos de carreira, com marcas fortes e oportunidades constantes.
+
+Conheça mais sobre nós
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços Recursos humanosVarejo
+Job Description
+
+O Zoom & Buscapé está procurando gente talentosa pra ajudar a tornar a experiência de compra simples e encantadora. Estamos em busca de um DevOps Engineer para completar nosso time de alta performance. Você irá transmitir seus conhecimentos de infraestrutura como código para os integrantes dos times, ajudando a alavancar a velocidade de entrega e autonomia e influenciar diretamente na estratégia do negócio, com desenvolvimento ainda mais ágil.
+
+Main responsibilities
+
+
+
+
+Additional information
+
+
+
+
+
+
+
+Aqui todos os dias são “casual days".
+
+Todas as nossas vagas são abertas para pessoas com deficiência. ♿
+
+Juntos somos Zoom & Buscapé
+
+, este é o nosso propósito.
+
+Acreditamos que todos os cidadãos devam se beneficiar da tecnologia e que comprar online deva ser simples para todos nós. , da descoberta do produto ideal, passando pela escolha do melhor lugar para comprar até a garantia do produto entregue. E se algo sair errado, é por nossa conta. Nosso serviço de relacionamento resolve o problema com a loja, ou devolvemos o dinheiro ao consumidor. Nós transformamos complexidade em prazer.
+
+e temos obsessão por colocar o consumidor verdadeiramente em primeiro lugar. Acreditamos que uma cultura sólida, consistente, construída e nutrida ao longo de tantos anos, dificilmente será replicada. Como resultado, somos considerados há .
+
+Com acumulamos em nossa experiência a evolução da tecnologia, dos negócios digitais e dos hábitos de consumo do brasileiro. Nossas principais marcas - Zoom e Buscapé - são acessadas por todos os meses e geramtrimestralmente.
+
+Prazer, somos a no Brasil.
+
+Faça parte do nosso time :)
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Marketing e publicidadeSoftwareInternet
+Estamos à procura de um Engenheiro de Dados experiente para se juntar à nossa equipe. Será responsável por expandir e otimizar nossa arquitetura de dados e pipeline de dados, bem como otimizar o fluxo de dados e a coleta para equipes multifuncionais. Irá construir e organizar pipelines de dados, otimizar os sistemas de dados bem como construí-los a partir do zero. Apoiará nossos analistas de dados e cientistas de dados em iniciativas de dados e garantirá que a arquitetura ideal de entrega de dados seja consistente em todos os projetos em andamento. Terá autonomia e deverá se sentir confortável em suportar as necessidades de dados de várias equipes, sistemas e produtos. O candidato certo ficará entusiasmado com a perspectiva de otimizar ou mesmo reprojetar a arquitetura de dados de nossa empresa para dar suporte à nossa próxima geração de iniciativas de produtos de dados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Além de um ambiente colaborativo, com oportunidade de desenvolvimento e crescimento profissional!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Responsabilidades
+Manutenção de banco de dados, APIs, sistema de extração de dados, ETLs e scripts de cálculo;
+Desenvolvimento e implementação de funcionalidades para identificar ordens ou padrões em bases de dados;
+
+
+
+
+
+A CUBi é uma startup movida por pessoas apaixonadas por eficiência e ciência de dados. Desde a fundação em 2017, nossa missão é alavancar o mercado de eficiência energética no Brasil através de um sistema de gestão de energia inteligente, simples e intuitivo que dá aos gestores a visão necessária para uma tomada de decisão informada. Dessa forma ajudamos empresas a melhorar sua performance energética e economizar energia continuamente. Nosso site: https://www.cubienergia.com
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+A CERC combina muita tecnologia, ciência de dados e pessoas empreendedoras para ajudar fintechs e bancos a terem mais segurança e eficiência nas transações de crédito a empresas com uso de recebíveis como garantia.
+
+Como parte do time de Engenharia de Dados, você vai ajudar a tornar o nosso dia a dia mais simples e produtivo (mesmo processando grandes quantidades de dados em pouco tempo) e a encontrar novas formas de democratizar estes dados.
+
+Quer saber como?
+
+
+
+
+
+
+
+
+
+
+O que não falta aqui é desafio! Vamos resolvê-los e aprender juntos?
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Serviços financeiros
+Nossos valores nos unem e nossas diferenças nos potencializam como um grupo. Mais do que igualdade, buscamos equidade: Aqui, temos espaço para sermos autênticos, independentemente de gênero, etnia, raça, orientação sexual, clero ou deficiência.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Varejo
+Estamos procurando um profissional com experiência em bioestatística e que seja apaixonado pelo desenvolvimento de tecnologias da próxima geração como aprendizagem de máquina, big data analytics, PNL, que possui um impacto profundo na medicina e no sistema de saúde como um todos os próximos anos.
+
+
+
+Dentro do tempo de Real World Insigths na IQVIA você terá acesso a petabytes de dados, hardware de última geração, como clusters e GPUs; oportunidade de se desenvolver trabalhando com especialistas do mundo todo na área de Data Science e aprender métodos padronizados no mundo inteiro.
+
+
+
+
+
+At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 67,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Indústria farmacêutica
+Enviar mensagem direta ao anunciante da vaga na Neoway
+Letícia Saraiva
+Tech Recruiter | Talent Acquisition at Neoway (We're hiring!)
+Falando da área
+
+Trabalhar na área de solução mantém o colaborador conectado com a inovação, ao constante aprimoramento por melhores metodologias de desenvolvimento e a novas tecnologias para atender os objetivos estratégicos e de negócios da Neoway.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços Software
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso as informações completas sobre a empresa.
+
+Trabalhar junto às áreas comerciais e operacionais para entender processos, o mercado e validar resultados;
+
+
+
+Sim
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Enviar mensagem direta ao anunciante da vaga na Holden Recruiting Talents
+Juliana S.
+Recruiter at Holden Recruiting Talents and H2
+Atividades:
+
+Extrair insights dos dados da empresa , estruturados ou não de fontes variadas das áreas internas da empresa;
+Criar relatórios no conceito Self-Service BI ;
+Participar das iniciativas de Infraestrutura de Dados (Data Lake, Data warehouse...);
+Desenvolver monitoria de aplicações ao longo do tempo com geração de alertas;
+
+Desenvolver e manter modelos matemáticos para resolver problemas de negócio.
+
+Requisitos:
+
+Superior em Estatística, Engenharias, Física, Economia, Ciência da Computação ou cursos relacionados;
+Experiência em Análise Exploratória de Dados, Algorítimos de Aprendizado de Máquina, Séries Temporais;
+Conhecimento: cálculo, álgebra linear, estatística, banco de dados, plataformas cloud para ciência de dados;
+Stack Tecnológica: Python para ciência de dados, R, SQL, Power Bi, programação orientada à objeto (C# e Java)
+
+Diferenciais
+
+Conhecimento em metodologias ágeis; CRISP-DM;
+Experiência com Business Intelligence;
+Bibliotecas Python: Pandas, Numpy, Scikit-learn, Matplotlib;
+Conhecimento em Processamento de Linguagem Natural;
+Experiência com Web APIs;
+Conhecimento em versionamento de código (Git);
+
+Contratação CLT + pacote completo de benefícios em empresa de grande porte, ampliando seu time interno de Data Science.
+
+Atuação: Remoto
+Contrato: CLT + pacote completo de benefícios
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Sobre Nós
+
+A área de Data Analytics é responsável por desenvolver soluções de dados para suportar decisões das áreas de negócios. Com o objetivo de trabalhar diariamente junto aos times de negócio para identificar oportunidades de prover dados e inteligência na tomada de decisões, a área de Data Analytics trabalha com metodologia ágil e muito teamwork.
+
+Sempre orientada à entrega, a área fomenta discussões técnicas e de negócios buscando a melhoria contínua nos resultados.
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareServiços financeiros
+A Tapps mobile Games é uma das maiores desenvolvedoras de jogos mobile na América Latina e no mundo. Em 10 anos de história, criamos e lançamos mais de 400 títulos e superamos a marca de 700 milhões de downloads em cerca de 180 países.
+
+
+
+Como desenvolvedor(a)de jogos, você integrará a equipe da Tapps Games e terá a oportunidade de participar no desenvolvimento de diferentes tipos de projetos, desde mecânicas e interface de jogos mobile de diversos gêneros, passando por automação de processos e testes, desenvolvimento em ambiente mobile, desenvolvimento de features e melhorias de performance dos nossos componentes e bibliotecas.
+
+Responsável por planejar e implementar core loop e features dos jogos, utilizando padrões de projetos, garantindo cobertura de testes e rigor técnico; promover interface entre a área de desenvolvimento e outras áreas, colaborar com a manutenção e desenvolvimento dos processos, tecnologias e ferramentas da área de desenvolvimento.
+
+
+
+Formação em Ciência da Computação, Engenharia de Computação, ou cursos correlatos que envolvam aprendizado em computação (ex.: Sistemas da Informação, Física, Matemática).
+
+Experiência em projetos de desenvolvimento/programação por pelo menos 2 anos. (Desejável que esses projetos sejam de jogos mobile)
+
+Inglês fluente
+
+Experiência com Metodologia Ágil
+
+Conhecimento de ferramentas de controle de versão (Git)
+
+Domínio em programação orientada a objeto (C++, C#, java, etc)
+
+Conhecimento em linguagem de script (bash, python, lua, etc)
+
+Conhecimento em padrões de projeto de desenvolvimento (Design Patterns, arquitetura de software, etc)
+
+Conhecimento e experiência em Unity
+
+Domínio em análise de algoritmos, estrutura de dados
+
+
+
+Experiência com desenvolvimento de jogos
+
+Experiência com teste de software
+
+
+
+
+
+Premiação com base em metas;
+
+Horário flexível;
+
+Escritório próximo ao metrô;
+
+Liberdade para propor novas atividades, processos e metodologias;
+
+Ambiente (e dress-code) descontraído;
+
+Os melhores happy-hours da sua vida.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+DescriçãoO desenvolvedor Back End no Magazord é o responsável pelo desenvolvimento de softwares através de linguagens de programação.Se você está com vontade de vestir nossa camisa repleta de inovação e tecnologia não perca essa oportunidade. Atividades- Desenvolver rotinas seguindo a metodologia definida;- Analisar e executar o desenvolvimento de rotinas;- Executar melhorias de acordo com cronograma do sprint;- Revisar pré-qualidade das rotinas desenvolvidas;- Definir modelagem do banco de dados;- Executar criação de monitores a fim de garantir o com funcionamento do sistema;- Manipular e extrair informações de banco de dados (SGBD) através de SQL;- Aplicar programação orientada a objetos e padrões de projeto (design patterns).Horário- Horário flexível: cumprimento das 08:48 horas do dia de forma flexível de segunda a sexta. Horário de início da jornada entre 07:00 e 08:30 e de final da jornada entre 17:00 a 18:00. Horário de almoço também flexível de no mínimo 0:30min e máximo de 01:12. Shortday as sextas podendo sair as 16:00.Remuneração- Fixo a combinar;- Vale alimentação de 21,00 reais por dia trabalhado (420,00 mensal em média)- Prêmio de meta trimestral de até 50% do salário base (após experiência).Benefícios que o time mais gosta- Liberdade em Horários; - Cafés Mensais para comemorar aniversários e conquistas;- Ideias e projetos de datas comemorativas;- Conforto das cadeiras e do ambiente; - Liberdade de Vestimenta;- Poder agregar ideias ou questionar decisões; - Ambiente organizacional bom e tranquilo; - Laboral;- Horário núcleo reduzido na sexta;- Metas.
+Instrução- Graduação completa ou cursando em sistemas de informação, engenharia de software, ciência da computação.Experiência- Experiência em desenvolvimento de sistemas web.Conhecimentos- Conhecimento avançado em PHP;- Pleno domínio da lógica de programação;- Arquitetura MVC;- Banco de dados (SQL);- Javascript.
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+Avenue Code é uma empresa de consultoria de e-commerce com sede em São Francisco, com três escritórios adicionais no Brasil (Porto Alegre, Belo Horizonte e São Paulo). Nós somos uma empresa 100% financiada com capital privado, rentável, e têm sido uma trajetória de crescimento sólido por vários anos. Nós nos preocupamos profundamente com nossos clientes, nossos parceiros e nossos consultores. Preferimos a palavra "parceiro" ao "fornecedor", e nosso investimento em relacionamentos profissionais é um reflexo dessa filosofia. Orgulhamo-nos da nossa perspicácia técnica, da nossa capacidade colaborativa de resolução de problemas e do calor e profissionalismo dos nossos consultores.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Se identificou? Então, então se candidate agora. Venha ser um Avenue Coder!
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Enviar mensagem direta ao anunciante da vaga na NextTrends
+sonia daniel
+--
+Perfil
+Formação: Superior completo ou cursando Análise de Sistemas, Sistemas de Informação, Ciência da Computação, Engenharia da Computação ou afins.
+ Atividades
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Setores
+Tecnologia da informação e serviços
+Temos oportunidades para atuar como Analista de Produtos para o banco digital (Especialista, Analista Sr. e Analista Pleno) e o seu perfil pode ser o ideal!
+
+Precisamos de pessoas com Simplicidade que Conecta, Conhecimento sem Comodismo e Vontade de resolver.
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Bancos
+Na Azion adotamos soluções de diversas áreas da ciência da computação, incluindo computação distribuída, processamento de eventos complexos, design de sistemas de larga escala, redes, segurança e compressão de dados. A lista é longa e cresce a cada dia. Nossos engenheiros precisam ser versáteis e apaixonados por desafios à medida que continuamos desenvolvendo novas tecnologias.
+
+Na Azion você deve ser capaz de trabalhar com autonomia, permanentemente atento às tendências, melhores práticas e tecnologias de ponta. Você deve sentir-se confortável debugando sistemas para identificar e resolver problemas. Você irá propor e discutir definições da arquitetura de sistemas, participar de code reviews, e auxiliar em todo o processo da criação de soluções elegantes, resilientes e performáticas. Você fará parte da construção e melhoria das nossas aplicações, identificando gargalos e desenvolvendo produtos escaláveis, seguros e confiáveis.
+
+Qualificações mínimas:
+
+
+Qualificações desejáveis:
+
+
+
+
+Powered by JazzHR
+
+i132JtTUaE
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Somos uma empresa de ideias, formada por especialistas em investimentos com décadas de experiência no mercado financeiro e por uma equipe de profissionais totalmente dedicados a levar as melhores sugestões de investimentos para os leitores.
+
+
+
+Estamos procurando um(a) analista(a) de dados para as franquias de investimento da Inversa!
+
+
+
+
+
+
+
+
+
+Formação em Ciência de Dados
+
+Experiência em Machine Learning e AI
+
+Desejável inglês avançado, principalmente, leitura e escrita
+
+Salário Fixo + variável
+
+Regime: CLT
+
+Benefícios: VR/VA - VT - AM - AO - SV (Todos os benefícios sem desconto em folha de pagamento)
+
+Vee Pass
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Editoração
+Quer trabalhar em um dos maiores institutos de ciência e tecnologia do Brasil? Então venha conhecer o SiDi, e saiba mais sobre esta oportunidade.
+
+Estamos em busca de profissionais proativos, dinâmicos, comunicativos, e que gostem de trabalho em equipe, para fazerem parte do nosso time de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77166
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+MarketingRelações públicasComposição e revisão de textos
+Setores
+Tecnologia da informação e serviços
+Oi, somos a Ame!
+
+Somos um fintech trabalhando para simplificar e revolucionar a maneira como as pessoas se relacionam com o dinheiro.
+
+Quer saber mais sobre a gente? Clica aqui!
+
+Engenharia na Ame
+
+Tecnologia é nosso core - temos uma arquitetura altamente escalável para entrega contínua de valor, pensando sempre em usabilidade, disponibilidade e segurança - por isto estamos o tempo todo experimentando novas abordagens e ferramentas.
+
+Usamos micro-serviços e programação reativa, para garantir desenvolvimento paralelo e alta performance.
+
+Dentro do nosso tech stack temos:
+
+
+Para esta posição, estamos buscando desenvolvedores(as) com experiência em (mínimo 1 ano) - estamos crescendo exponencialmente, e precisamos de pessoas que gostem do desafio de criar novas funcionalidades, de forma rápida e com melhoria contínua.
+
+Esta pessoa vai participar ativamente no desenvolvimento de produtos da nossa plataforma digital - desde a concepção até o acompanhamento em produção.
+
+Trabalhamos em squads, com times multi-funcionais onde todos participam ativamente e são responsáveis pelas decisões e metas de negócio!
+
+Responsabilidades e atribuições
+
+
+
+Requisitos e qualificações
+
+
+
+
+
+Diferenciais
+
+
+
+
+Mais sobre nós
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Internet
+VAGA EXCLUSIVA PARA PROFISSIONAIS COM DEFICIÊNCIA
+
+Atenção: é necessário anexar seu currículo no ato da inscrição.
+
+A triagem para o processo seletivo é realizada através da leitura do seu currículo anexado, caso já esteja anexado, lembre-se de manter o arquivo atualizado. Manter o currículo atualizado aumenta as suas chances de sucesso no processo seletivo.
+
+1
+
+
+
+São Luis – MA
+
+
+
+13 a 20/11
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+Enviar mensagem direta ao anunciante da vaga na EmCasa
+Isabela Paulo Alves
+Recruiter at EmCasa
+A empresa
+
+A compra de um imóvel é a transação financeira mais importante na vida das pessoas, porém, é uma das transações mais complicadas e ineficientes que existem. Consumidores precisam lidar com serviços de baixa qualidade, falta de transparência e informação, documentação complexa, falta de segurança e diversas outras dificuldades.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Setor imobiliário
+Por que ser Analista de BI na Track?
+
+Trabalhamos todos os dias para melhorar a experiência das pessoas consumidoras e assim torná-las mais felizes. Como Analista de BI no nosso time de Tecnologia, você será responsável pelos estudos e análises do time. Se você é comunicativo, focado em resultados, comprometido e organizado, esta vaga é para você!
+
+Como será o seu dia a dia?
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Atendimento ao consumidor
+\0/Buscamos profissionais que queiram inovar nosso Banco\0/
+
+Quer atuar em um ambiente que respeita as diferenças e proporciona aprendizado e crescimento, então esta posição é para você!
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+OutroAnalistaEstratégia/Planejamento
+Setores
+Bancos
+Fielo é uma startup de rápido crescimento que traz inovação e escala para programas de fidelidade e incentivo. Nossa solução de software de fidelidade baseada em nuvem e assinatura permite que as organizações criem e executem programas de incentivo e fidelidade altamente escalonáveis para o público de consumidores (B2C) e parceiros (B2B) - e recompensem virtualmente qualquer comportamento e resultado. A plataforma de automação de fidelidade Fielo é um parceiro estratégico do Salesforce AppExchange, que já fornece programas de fidelidade para muitas empresas globais. Estamos crescendo rapidamente e estamos procurando pessoas para fazerem parte do nosso time.
+
+RESUMO
+
+Participar da definição e implementação do processo de desenvolvimento, colaborar selecionando as ferramentas mais adequadas e as novas tecnologias que utilizarão a equipe para garantir a mais alta qualidade final. Seja uma referência técnica e funcional para outros membros da equipe para aprimorar o conhecimento compartilhado. Auxiliar na definição da arquitetura de novos recursos tanto do ponto de vista funcional quanto técnico. Desenvolva funcionalidades ponta a ponta com base nos requisitos do negócio.
+HABILIDADES NECESSÁRIAS
+
+Boas habilidades de liderança.
+Habilidades médias de negociação.
+Habilidades de comunicação interpessoal acima da média.
+Curiosidade para investigar, pesquisar e desafiar o status quo.
+Capacidade de adotar uma abordagem global e particular
+Autonomia e capacidade de desbloquear fluxo de trabalho e gargalos.
+Competência para resolver problemas com proatividade.
+Capacidade de identificar áreas de autoaperfeiçoamento e direcionadores de carreira profissional.
+Orientado para compartilhamento de conhecimento.
+Talento para criar valor agregado ao processo de desenvolvimento e definição de soluções.
+
+RESPONSABILIDADES PRINCIPAIS
+
+Processo de desenvolvimento mestre, ferramentas, Github, IDEs.
+Melhoria proativa de processos e organização de novas tarefas.
+Realizar o desenvolvimento de novas funcionalidades de acordo com soluções pré-definidas baseadas em boas práticas, bom desempenho e qualidade.
+Faça a correção de bugs nas funcionalidades existentes propondo a solução mais precisa.
+Busque a excelência e eficiência nas tarefas, novos desenvolvimentos e correção de bugs.
+Atinja prazos com pleno desenvolvimento.
+Compreender profundamente e aplicar casos de uso e teste no processo de desenvolvimento.
+Gerenciar as funcionalidades do Fielo com excelência
+Domine e seja referência em aplicativos orientados a servidor e tecnologias de back-end com Node.js
+Domine e seja referência em Aplicações Web e tecnologias de front-end com React
+Implementar testes de integração, testes de contrato e testes ponta a ponta.
+Ser referência mestre em desenvolvimento de Integrações (REST, SOAP, Web Services, Kafka)
+Compreenda e implemente soluções para requisitos não funcionais, como segurança avançada, autenticação e gerenciamento de tokens.
+Criar e configurar banco de dados para aplicativos Heroku
+Trabalhe junto com a metodologia Scrum.
+Capacidade de documentar de forma precisa e definitiva tanto para audiências técnicas quanto funcionais.
+
+EDUCAÇÃO
+
+Licenciatura em Engenharia de Sistemas ou Licenciatura em Ciência da Computação
+
+CONHECIMENTO NECESSÁRIO
+
+Reagir
+Redux
+Node.js
+Modelagem de Dados
+Bancos de dados NoSQL
+AWS
+Docker e Kubernates
+Micro Serviços
+Arquitetura
+Github
+Teste BDD
+Scrum
+Gerenciar ambientes de desenvolvimento
+Boas habilidades de estimativa
+
+EXPERIÊNCIA
+
+Em desenvolvimento de software
+No Heroku com Node.js + React
+Experiência no desenvolvimento de aplicações preparadas para suportar grande escala de usuários e transações.
+3 anos de uso de Repositórios (Github)
+Experiência mínima de 3 anos usando a Metodologia Scrum
+
+ATITUDE
+
+Trabalho em equipe
+
+Aprendizagem Permanente
+
+Flexibilidade
+
+Autonomia
+
+Iniciativa
+
+Liderança
+
+Criatividade
+
+Foco nos resultados
+
+Comprometimento
+RESIDÊNCIA
+
+Local de residência: BR
+LÍNGUA
+
+Inglês: Desejado
+
+Espanhol: Plus
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Buscamos desenvolvedores para integrar a nossa equipe de desenvolvimento.
+
+Desafios que você vai assumir:
+
+Construção de aplicações web;
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+ConsultoriaTecnologia da informação
+Setores
+Consultoria de gerenciamentoEngenharia mecânica ou industrial
+Irá mapear processos de negócio em BPM, realizar análise de requisitos de negócio, realizar análise de requisitos de sistema, elaborar protótipos de telas; desenvolver scripts sql (ddl e dml), modelar banco de dados, auxiliar no planejamento e revisão de projetos e sprints, participar de reuniões de planejamento e revisão de projetos e sprints, sanear dúvidas de negócio do time e validar as entregas, contribuir nas atividades relacionadas à assegurar a qualidade do produto.
+
+
+
+Vale Transporte; Vale Refeição; Assistência Médica; Seguro de vida; Assistência Odontológica;
+
+
+
+Ensino superior completo em Informática, Ciência da Computação, Análise e Desenvolvimento de Sistemas, equivalentes.
+
+
+
+Experiência em Programação. Conhecimento nas áreas de negócio como financeiro, compras, vendas, estoques, contabilidade, fiscal etc. Modelagem de banco de dados. Desenvolvimento de scripts SQL (DDL e DML). Prototipação de telas. Conhecimento de técnicas para levantamento de requisitos. Capacidade de comunicação clara e objetiva. Capacidade de escrita clara e objetiva.
+
+
+
+A combinar
+
+
+
+Analista de projetos de sistemas
+
+
+
+Sabium Sistemas
+
+Desenvolvimento de software.
+
+
+
+Informática/ Tecnologia
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Job Description
+
+SEJA BEM-VINDO(A) À AMBEV - TECH
+
+Nossa gente aqui na Ambev - Tech sonha GRANDE! Somos milhares de apaixonados pelo que fazemos. Nosso maior objetivo é inovar no setor de bebidas através de tecnologia entregando soluções com a maior qualidade e valor possível, para que você possa brindar qualquer ocasião!
+
+Juntamos nossas duas paixões: " Cerveja + Technologia" , a combinação perfeita!
+
+A nossa Cultura é focada em construir um ambiente inclusivo, diverso e colaborativo, onde as pessoas possam ser o melhor delas mesmas mantendo suas essências e autenticidade! Gente é o nosso maior ativo pois sabemos que investir no potencial de nossos colaboradores é trazer ainda mais diversidade de pensamento ao nosso negócio e consequentemente às nossas bebidas. Por isso, estamos sempre em busca de talentos diversos, dispostos a construir esse sonho grande com a gente: unir as pessoas por um mundo melhor!
+
+Main responsibilities
+
+O que um Engenheiro de Dados aqui na Ambev-tech faz?
+
+
+
+
+
+E para ser Engenheiro de Dados Pleno o que é necessário aqui na Ambev:
+
+Ter experiência em processamento e transformação de dados utilizando Spark, Python e SQL;
+
+Bons conhecimentos em modelagem e governança de dados;
+
+Ser uma pessoa atualizada na área que trabalha e mega interessada em manter uma evolução constante nos sistemas que entrega;
+
+Boa comunicação com a área de negócio e stakeholders;
+
+Pró-atividade;
+
+
+
+Tenha experiência como Data Engineer;
+
+Experiência em Azure;
+
+Conhecimentos em CI/CD, Python, Java, Scala ou SQL;
+
+Conhecimentos em Hive, Presto ou Spark;
+
+Armazenamento de dados em HDFS ou Azure Data Lake;
+
+Conhecimentos básicos em Talend, para manutenção de ETLs existentes;
+
+Inglês Fluente
+
+mas é só desejável ok?
+
+Additional information
+
+Quais são nossos benefícios (modelo de contatação CLT):
+
+
+
+E aí, topa o desafio de um cervejeiro(a) de technologia conosco?
+
+Seja bem-vindo à Ambev
+
+Nossa aqui na sonha ! Somos milhares de apaixonados pelo que fazemos. Nosso maior objetivo é inovar no setor de bebidas com a maior qualidade e diversidade possível, para que você possa brindar qualquer ocasião escolhendo o que mais gosta!
+
+A nossa é focada em construir um ambiente inclusivo e colaborativo, onde as pessoas possam ser o melhor delas mesmas! Gente é o nosso maior ativo, afinal sabemos que investir no potencial de nossos colaboradores é trazer ainda mais qualidade ao nosso negócio e às nossas bebidas. Por isso, estamos sempre em busca de , dispostos a construir esse grande sonho com a gente de unir as pessoas por um mundo melhor.
+
+Prazer, somos a e adoraríamos te ter com a gente.
+
+
+
+Saiba mais sobre a Ambev
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Alimentos e bebidasConsultoria de gerenciamentoIndústria farmacêutica
+Salário: Salário a combinar
+
+Horário: 40h semanal
+
+Contratação: Efetivo – CLT
+
+Nível: Profissional
+
+
+
+
+
+
+
+
+Graduação Ciência da Computação, Engenharia ou Sistemas de informação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Benefícios: Informado na entrevista
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+PesquisaAnalistaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+Enviar mensagem direta ao anunciante da vaga na Lett
+Rodrigo Carvalho
+Founder & Chief Revenue Officer | Digital Trade Marketing Intelligence | Lett
+Consultor de Business Intelligence - Nível Jr ou Pleno
+
+Quem somos nós?
+A Lett é uma empresa focada na construção de pontos digitais perfeitos para os consumidores, utilizando inteligência de dados para e-commerce. Temos o objetivo de ajudar marcas e e-commerces a criarem experiências de compra inesquecíveis e aumentar suas vendas online.
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Tecnologia da informação e serviços VarejoSoftware
+Principais Atividades
+Análises de séries de dados de demanda de operações; 
+Projeções de cenários de longo prazo, riscos, oportunidades e identificação de ações;
+Consolidação e coordenação de processos de S&OP;
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Estratégia/PlanejamentoNegócios em geralCadeia de suprimentos
+Setores
+Indústria automotiva
+Quem somos?
+
+A Cargo X é a logtech que está mudando o ecossistema de transportes do país, aplicando tecnologia nas diversas etapas e cadeias de logística. Nosso maior propósito é revolucionar o setor de transporte de cargas no Brasil, otimizando a conexão entre a capacidade e a demanda através da tecnologia e, assim, trazer maior eficiência para a economia do país e melhorar a qualidade de vida das pessoas.
+
+Como é trabalhar no time de Dados e BI da Cargo X?
+
+Aqui na área de Dados e BI gostamos de compartilhar conhecimentos e trabalhar com desafios reais. Nós capturamos, analisamos, compreendemos e propomos otimizações baseadas nos dados gerados pelas nossas plataformas, de forma a melhorar os resultados que entregamos para Caminhoneiros, Clientes e para a Cargo X como um todo.
+
+Trabalhamos em parceria com outras áreas a fim de garantir uma cultura analítica para toda a empresa, baseando nossas decisões e projetos futuros em dados.
+
+O que você vai fazer?
+
+
+O que buscamos?
+
+
+
+
+
+
+
+
+Para você saber: ficamos na região da Vila Olímpia, mas estamos atuando de forma remota para preservar a saúde dos nossos colaboradores.
+
+Vem com a gente participar da revolução do transporte de cargas!
+
+__________________________________________________________________
+
+Aqui na Cargo X, todas as nossas vagas são abertas a pessoas com deficiência. Valorizamos a inclusão e a diversidade de talentos, por isso, queremos te conhecer!
+
+Se você possui deficiência e não encontrou nenhuma oportunidade compatível com o seu perfil, se candidate no nosso banco de talentos PCD.
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços InternetRecursos humanos
+Desenvolvimento e criação de fluxos de diálogo de chatbots, desenvolvimento de APIs e integrações entre as APIs e os chatbots e ambientes web.
+
+Formação acadêmica/ Certificações
+
+Ciência da computação, Analise e Desenvolvimento de Sistemas, Tecnologia da Informação e afins.
+
+
+
+6 meses
+
+
+
+Conhecimento de ferramentas IBM Cloud e Watson Assistant com uso Intenções, Entidades e Fluxos, Criação de API’s, Desenvolvimento de integrações com API REST. Conhecimento em Banco de dados noSQL (MongoDB) e Práticas Agil são um diferencial.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Enviar mensagem direta ao anunciante da vaga na RCB Investimentos
+Maria Eduarda Reis
+HR Manager
+Apresentação
+
+Através da RCB Portfólios estruturamos e gerenciamos fundos que aplicam em ativos de crédito e investimentos alternativos em geral. Nesta qualidade, originamos, diligenciamos e precificamos um universo amplo de ativos. No papel de Mater Service, atuamos como gestores estratégicos dos ativos sob nossa gestão, provendo acompanhamento da evolução financeira o otimizando os resultados das operações.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Serviços financeiros
+Desenvolvedor Pleno/Sênior FullStack Python Vaga Postada: ontem
+CSS Django HTML5 JavaScript PostgreSQL Python Vue.js
+
+Empresa: JetBov
+
+Descrição da vaga
+
+O que você vai fazer?
+
+
+
+O que esperamos de você?
+
+
+Requisitos
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Venha trabalhar em uma Startup, com uma equipe altamente colaborativa, um lugar sem burocracia e com muito espaço para inovação.
+Somos uma empresa certificada pelo GPTW e reconhecida por ter um excelente ambiente para se trabalhar!
+
+Buscamos um analista desenvolvedor para atuar no Celcoin na construção de produtos e ferramentas voltadas para a nossa rede de agentes espalhados por todo o Brasil.
+
+O profissional irá atuar em conjunto com time de desenvolvimento na construção de sistemas fim a fim com o objetivo de disponibilizar novas funcionalidades para a rede de agentes Celcoin.
+
+Aqui você irá trabalhar principalmente com .Net Core, .Net Framework, SQL Server (PL SQL), Android e Flutter (em migração) .
+
+Essa é uma oportunidade única de trabalhar em uma Startup em crescimento acelerado, altamente inovadora e com um time extremamente capacitado no uso de tecnologias e ferramentas para alcançar a satisfação do seu cliente.
+
+
+
+Nós respeitamos e valorizamos as diferenças com oportunidades iguais de emprego, independentemente de raça, religião, gênero, orientação sexual, idade, cultura, condições físicas ou status social.
+Prezamos pela diversidade e criamos um ambiente cada vez mais inclusivo.
+
+
+
+De segunda a sexta das 09 às 18h
+
+Vale-Transporte, Vale-Refeição, Assistência Médica, Odontológica e Auxílio Creche.
+
+Alphaville, Barueri – SP
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Software
+DataSprints é uma consultoria de Engenharia & Ciência de Dados que potencializa startups e grandes corporações.
+
+Estamos em busca de uma pessoa que seja apaixonada por dados, goste de trabalhar em um ambiente de alto aprendizado e autonomia, com as e um time de .
+
+Neste cargo, você fará parte de um time de elite que vem atuando em projetos de Data & Analytics nas maiores startups e corporações do país. É uma grande oportunidade de se aprender com profissionais de referência e atuar em projetos que realmente tratam Big Data!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+A área de Tecnologia do Grupo Boticário vem se transformando, mais do que uma área suporte, somos responsáveis por construir um ambiente tecnológico e digital em todas as nossas lojas e também para as nossas revendedoras, conectando as pessoas e criando experiências únicas em cada contato com o GB.
+
+Nós somos protagonistas nesse movimento, pensando não somente em nossos consumidores mas também em todos os colaboradores, aliar beleza e tecnologia é o nosso negócio! Aqui você vai encontrar um ambiente de desafios, aprendizados, trocas de experiências e o melhor…
+
+Oportunidade de construir o futuro tecnológico deste Grupo que não para de crescer! Se você se considera um profissional disruptivo que está aberto as inovações constantes, queremos você aqui conosco fazendo parte desse time, topa esse desafio?
+
+
+
+
+
+
+
+Se identifica com o nosso jeito? Então vem fazer beleza com a gente!
+
+
+
+− Ser ponto focal de tecnologia para a Diretoria de Operações(Indústria) com foco em manufatura, manutenção e automação industrial;
+
+− Responsável pelo pela evolução tecnológica e sustentação das soluções especialistas da indústria;
+
+− Liderar os projetos de implementação de sistemas de tecnologia desde a concepção da ideia até o seu encerramento com o objetivo de entregar os benefícios prometidos no prazo e custo planejados;
+
+− Gerenciar, integrar e garantir o alinhamento com o time de tecnologia de forma a obter o melhor resultado alinhado com a estratégia e cultura do negócio
+
+− Facilitar os processos de implementação de projetos que demandem tecnologia de informação, através da coordenação e acompanhamento de atividades, a fim de assegurar o atendimento às necessidades e a realização, dentro dos padrões de qualidade exigidos e alinhados ao negócio;
+
+− Garantir o cumprimento do modelo de governança vigente, bem como seu correto entendimento e utilização pela equipe;
+
+− Pesquisar e desenvolver novas tecnologias e disseminá-las;
+
+− Apoiar o processo de priorização dos projetos que envolvem tecnologia;
+
+− Apoiar o Coordenador/Gerente no desenvolvimento de estratégias, ações, gestão de contratos e projetos.
+
+
+
+− Graduação em Ciência da Computação, Engenharia ou áreas afins;
+
+− Conhecimento básicos de Automação Industrial (OPC e Supervisório);
+
+− Experiência com implementação MES e PIMS;
+
+− Experiência no ERP SAP - módulos PP e PM;
+
+− Conhecimento em Transact SQL avançado;
+
+− Experiência em JAVA Script, HTML, CSS e C#;
+
+− Experiência com desenvolvimento Python com foco em dados;
+
+− Experiência em gestão de projetos;
+
+− Conhecimento PMBOK e Metodologias Ágeis (Scrum e Kanban);
+
+
+
+
+
+
+
+O Boticário está sempre promovendo a diversidade no Grupo, e queremos pessoas que queiram fazer a diferença, independente de gênero, orientação sexual, deficiência ou raça.
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Atendimento ao consumidor
+Buscamos uma pessoa para realizar análises micro e macroscópicas do mercado e da Vindi, por meio da extração, limpeza, tratamento e análise de dados para gerar inteligência de negócio, visando obter um conjunto de informações que podem ser usados em estratégias para alcançar resultados e metas.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Bancos
+Oportunidade de Cientistas de Dados no Itau – Junior, Pleno e Senior
+
+“Gente é tudo pra gente_”
+
+Pessoas são o maior ativo do Itaú, pois cuidam de seu bem mais precioso: o cliente. Por isso, o Itaú vive verdadeiramente sua , valoriza e respeita a diversidade e o protagonismo de seus colaboradores em todas as suas relações. Faz o que é certo e quer que você seja autêntico, inclusive na forma de se vestir, para exercer todo o seu potencial, focar no seu desenvolvimento e nas soluções para os clientes. Na Tecnologia, os times são multidisciplinares, com diversas especialidades, e trabalham com práticas ágeis e lean, focadas no aprendizado contínuo e colaboração. Além disso, tem grupos de afinidade de raça, mulheres, LGBT e PCDs em que os colaboradores protagonizam pautas importantes da sociedade e contribuem com a transformação e centralidade no cliente.
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços Serviços da informação
+Job Description
+
+Somos movidos por grandes desafios e precisamos de pessoas que amem aprender constantemente, que sonhem grande e que tenham muita raça para nos ajuda a transformar cada vez mais vidas.
+
+Se você busca uma oportunidade ímpar de aprendizado e de crescimento, aprender sobre negócios, trabalhar em um ambiente meritocrático, a OMNI Brasil pode ser o local ideal para você! Estamos com uma vaga de estágio na área de Business Intelligence!
+
+Main responsibilities
+
+O estagiário(a) de Business Intelligence ajudará o Head e o Coordenador Comercial a estruturar, organizar e apresentar dados e indicadores, além de atuar com a melhoria contínua dos processos comerciais.
+
+
+
+
+
+
+Additional information
+
+Além de uma , você ainda ganha:
+
+Somos a maior escola de hipnoterapia do Brasil, e estamos apenas começando...
+
+
+
+Temos o propósito de transformar vidas proporcionando o melhor da hipnoterapia e temos como visão “Impactar diretamente 1 MILHÃO de vidas até 2021”.
+
+
+
+Nossos valores são nosso mantra, queremos que todos eles sejam refletidos em cada uma das ações que realizamos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Estágio
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Marketing e publicidadeInternetRecrutamento e seleção
+Job Description
+
+Trabalhamos no desenvolvimento da plataforma de agricultura digital líder na América Latina. Nossa missão é criar soluções que tornem a agricultura mais produtiva, sustentável e resiliente às mudanças climáticas. Para isso, utilizamos tecnologias modernas aliadas com a ciência de dados, foco em usabilidade e experiência do usuário. Afinal, o que realmente importa é trazer valor para nossos clientes, já que eles são os agentes de mudança que vão gerar o impacto que queremos no mundo.
+
+Você tem ideia de quão é importante o manejo eficiente de doenças no dia-dia do produtor rural?
+
+Gostaria de aplicar seus conhecimentos e ajudar milhares de produtores a tomar melhores decisões no manejo de doenças no campo?
+
+Você tem a ambição de criar o melhor sistema de alerta de doenças na agricultura?
+
+Então junte-se ao nosso time!
+
+O candidato selecionado irá trabalhar em um ambiente descontraído e com flexibilidade de horário.
+
+Main responsibilities
+
+
+
+
+
+
+Requirements and skills
+
+Additional information
+
+
+
+Quem somos?
+
+
+
+Acreditamos que para superar os desafios pela frente, é preciso pensar e fazer diferente. A é o que conecta o agro de hoje com o do amanhã. Para nós, o é a união da experiência passada por gerações, com as tecnologias em prol de novos caminhos e resultados. Para isso, a colaboração de todos os envolvidos na cadeia de alimentos é essencial.
+
+
+
+
+
+A agricultura é desafiante. Para vencer, precisamos de técnica, conhecimento, tecnologia e cooperação. É para isso que viemos: para unir e solucionar, para ser ponte entre o saber e o colher. Acreditamos no poder da ciência de dados e de ferramentas de inteligência artificial para elevar o potencial destes dados em influenciar a tomada de decisão do produtor, criando uma cadeia agrícola mais produtiva, transparente e sustentável.
+
+
+
+Como temos uma fundadora mulher estamos engajados em 2 principais causas: a equidade de gênero e o respeito incondicional a diversidade. Acreditamos no poder que a pluralidade de gênero, etnia, crenças e cultura tem em trazer diferentes faces e perspectivas de um mesmo problema que nos permita desenvolver soluções inovadoras.
+
+
+
+Nós aceitamos o desafio de liderar o movimento de transformação digital no agronegócio, de alimentar o mundo e garantir resiliência climática aos produtores. Por isso temos a missão de, não só ajudar o produtor rural e a indústria a se adaptar aos novos cenários, mas também mostrar que dá pra fazer sendo Brasileiro, sendo Latino, vindo de uma cidade pequena e uma universidade normal.
+
+
+
+Prezamos sempre pela simplicidade e foco no usuário. Para nós, resultados não são somente a meta de vendas, mas o quanto geramos de impacto positivo na nossa sociedade e contribuímos para essa missão de transformar o agro.
+
+A sustentabilidade não é uma escolha, está presente em nossa forma de pensar e agir, a cada detalhe.
+
+A agricultura impacta todos os ODS (Objetivos de Desenvolvimento Sustentável). Por isso desenvolvemos soluções para diversas partes da cadeia, buscando o uso inteligente e racional dos recursos em cada atitude e tomada de decisão.
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Marketing e publicidadeSoftwareInternet
+Job Description
+
+Tecnológicos, inquietos e ousados, bem vindos à Cortex!
+
+Somos a plataforma líder de Growth Intelligence do Brasil. Growth intelligence é o uso de e em informações do mercado e do cliente para alavancar resultados de marketing e vendas.
+
+Nosso propósito é , em junho de 2020 nos tornamos a e com o , entramos em um seleto grupo de empresas sul americanas que estão fazendo história. 🚀
+
+Somos um time de pessoas e focadas em proporcionar as . Somos . Trabalhamos duro, mas nos divertimos muito enquanto isso. Buscamos pessoas que, assim como nós, acreditam que o
+
+Como você será responsável por Planejar e desenvolver novas evoluções na plataforma Cortex se reportando diretamente Tech Lead e participando do nosso grande desafio de
+
+Main responsibilities
+
+
+
+
+
+Additional information
+
+Tecnológico, inquieto e ousado, bem-vindo à Cortex!🚀
+
+Nós somos a plataforma líder de Growth Intelligence do Brasil e construímos a empresa a partir de nossa paixão por desenvolver uma tecnologia altamente inovadora!
+
+Mas o que é Growth intelligence? É o uso de ciência de dados e Big Data para alavancar resultados de comunicação, marketing e vendas.
+
+Nosso propósito é simplificar dados com inteligência transformando o caminho de pessoas e negócios, em junho de 2020 nos tornamos a maior aposta de inteligência de dados da América Latina e com o aporte de R$ 170 milhões da SoftBank Group e Riverwood Capital, entramos em um seleto grupo de empresas sul americanas que estão fazendo história. 🚀
+
+VEM FAZER PARTE DO TIME! #BECORTEX
+
+Conheça mais sobre nós 🚀
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Você realizará constantemente a construção e melhoria de um produto, portanto viverá na prática todas as etapas do ciclo de desenvolvimento de um novo produto. Para isso é necessário que você tenha muita iniciativa, vontade de aprender e ensinar.
+
+Valorizamos o trabalho em equipe, as interações humanas e prezamos pela nossa autonomia como time e como produto.
+
+Se identificou? Queremos te conhecer!
+
+👉 https://zallpy.com/ 😉
+
+Main responsibilities
+
+
+
+
+Additional information
+
+Sobre a ZALLPY DIGITAL
+
+
+
+Vamos além do software! Acreditamos que um ambiente de colaboração entre a equipe Zallpy, clientes, parceiros e comunidade pode agregar valor ao processo criativo, gerando novas oportunidades de negócios. Oferecemos espaços compartilhados em um ambiente aberto e moderno, ideal para integrar todos os times, realizar meetups e eventos ou mesmo para desenvolver o seu próximo projeto de inovação.
+
+Transformar o futuro de pessoas e empresas com inovação e soluções digitais, esse é o nosso propósito!
+
+
+
+Conheça mais sobre nós
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Conheça a oportunidade que temos para você!
+ Cargo: Analista de Pricing Senior - RETURN - TI
+
+Venha fazer parte da RETURN e conheça a oportunidade que temos para você!
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+AnalistaTecnologia da informaçãoAdministração
+Setores
+Bancos
+Descrição da Diretoria de Analytics
+A Diretoria de Analytics da ClearSale assume uma posição fundamental e estratégica dentro da empresa, sendo a principal responsável pela construção e gestão das soluções antifraudes de nossos clientes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barra Funda - SP (Próximo ao metrô). (durante o período de epidemia, nossas atividades estão sendo 100% remotas)
+
+9h-18h | Horário Flexível
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Segurança de redes e computadores
+Estamos em busca de Desenvolvedor(a) Back-End com espírito de equipe, proatividade, mão na massa e que queiram trabalhar com tecnologia de ponta em produtos de inteligência artificial.
+
+Criar modelos preditivos é um desafio. Precisamos processar e entender grandes volumes de dados e transformar sistemas preditivos em inteligência para negócios.
+
+Como Desenvolvedor(a) Back-End, você terá a oportunidade de contribuir utilizando as habilidades necessárias para superar estes desafios. Você também aprenderá muito sobre Aprendizado de Máquina.
+
+Na Kunumi você vai
+
+As principais responsabilidades são
+
+Local de trabalho
+
+Rio de Janeiro, alocado em cliente.
+
+
+
+Essa vaga se aplica a você se
+
+
+Vamos gostar ainda mais se você tiver experiência com
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Integrar é nosso negócio! E nossa integração pode dar muito certo. Quer ver?
+
+A Sensedia é referência nacional no mercado de APIs e Microservices, estamos ativamente presentes em suas operações na América Latina e Europa! Posicionados pelo GPTW como uma das melhores empresas de tecnologia para se trabalhar e reconhecidos como Visionários pelo Gartner e Strong Performer pelo Forrester, hoje somos um dos principais players de API Management do mundo!
+
+Já são mais de 100 empresas utilizando a solução da Sensedia em suas estratégias digitais, entre elas Netshoes, Raízen, Ultragaz, Cielo, Porto Seguro, Natura, Riachuelo, Petrobras, Globo, e muitas outras.
+
+
+
+Respiramos inovação, criar novas experiências digitais a partir da nossa Plataforma de Gerenciamento de APIs e dos nossos Serviços de Consultoria é nosso combustível. Hoje entregamos escalabilidade e time-to-market para nossos clientes com projetos e integrações totalmente customizadas.
+
+
+
+Paixão por Tecnologia; Coragem; Comprometimento; Comunicação Transparência; Senso de Urgência; Ousadia; Colaboração; Inconformismo; Autonomia; Flexibilidade e Foco em Resultado.
+
+
+
+Vale Refeição, Vale Alimentação, Plano de Saúde, Plano Odontológico, Seguro de Vida, PLR , Gympass, Auxílio Creche.
+
+Todos os dias temos café, frutas e guloseimas à vontade. Caso queira comprar algum outro item, uma quitanda à sua disposição. Tudo para que a fome não diminua seu ritmo!
+
+
+
+Nas nossas bases você encontrará um ambiente descontraído, colaborativo, confortável e com opções de games para animar seus momentos de "descompressão", seja através de jogos eletrônicos, seja por um bom carteado. E ainda tem nossos happy hours, ou como chamamos "ninjas no boteco", onde a gente brinda tudo isso e de quebra houve um bom som de violão ou da nossa playlist favorita.
+
+NO DRESS CODE! Aqui você pode ser você mesmo. Buscamos sua melhor versão e queremos que você atinja seus resultados da forma mais original possível, quanto mais diversidade, melhor!!!
+
+
+
+
+
+Qual é a missão / desafio deste cargo?
+
+Sua missão será desenvolver e promover a cultura data-driven dentro da Sensedia a nível mundial, permeando todas as áreas da empresa, mas dará os primeiros passos dentro dos times de Growth, Marketing e Vendas. Você terá um papel super importante na definição das métricas mais relevantes, na escolha e coleta dos dados, definição das ferramentas, análise dos dados e claro, na mágica de transformar tudo isso em insights para tomadas de decisão. Você fará parte de um timaço de Growth para te apoiar nessa jornada. Massa demais, né?!
+
+Quais serão suas responsabilidades?
+
+
+
+
+
+
+
+Suas experiências são compatíveis? Se candidate e venha conhecer a maior referência de APIs no Brasil, classificada como visionários no Gartner, vistas como Strong Performer pelo Forrester e considerada uma das melhores empresas para se trabalhar pelo GPTW! Queremos você em nossa equipe!
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Descrição Da Área
+
+A Gerência de Ciência de Dados tem como missão disseminar o conhecimento analítico na Porto Seguro e apoiar as diversas áreas da empresa na tomada de decisão, baseada em análise. Além de atuar como uma consultoria, ela também é provedora de inovações e soluções de Inteligência Artificial na Gestão de Risco e Resultados, Marketing e Vendas, e Eficiência Operacional.
+
+
+
+
+
+
+
+
+
+Visão Integrada, Capacidade de Entrega, Criatividade
+
+
+
+
+
+
+
+
+
+
+Remuneração compatível com o mercado
+Vale-Refeição
+Vale-Alimentação
+Vale-Transporte
+Assistência Médica
+Assistência Odontológica (opcional)
+Participação nos Lucros
+Previdência Privada
+Auxílio Creche e Babá
+Seguro de Vida
+Bolsa de Estudos
+Bolsa de Idiomas
+Convênio Farmácia
+Descontos nos produtos e serviços da empresa
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Seguros
+Nível: Coordenador
+Área: Marketing
+Escolaridade: Graduação - Publicidade e Propaganda - Completo
+Tipo de contrato: CLT
+Jornada de trabalho: 08 Horas diárias
+
+13º Salário, Vale transporte, Assistência médica, Assistência odontológica, Vale academia, Vale refeição, Plano de Carreiras
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Enviar mensagem direta ao anunciante da vaga na Neon
+Felipe Baxhix
+Tech Recruiter at Neon
+DESCRIÇÃO DA VAGA
+A Neon está em busca de uma pessoa Especialista em Segurança com foco em consultoria de segurança para squads, metodologia agile, DevSecOps, etc.
+
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Serviços financeiros
+Requisitos:
+
+Formação em Ciência da Computação, Engenharia da Computação ou curso técnico equivalente;
+Sólida experiência profissional em desenvolvimento/análise de sistema;
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Desenvolvedor Full-Stack
+de aplicações distribuídas;Ter a oportunidade de acompanhar
+projetos desde a concepção até a entrega e acompanhar os impactos causados no
+cliente e usuários;Fazer parte de uma equipe de alto nível,
+dividindo e adquirindo atribuições, decisões e tarefas de execução;Aprimorar conhecimentos constantemente,
+aprendendo novas tecnologias e aprimorando aplicações.
+Formação em computação (Ciência ou
+Engenharia);Proficiência nos fundamentos de front-end
+como HTML, CSS e JavaScript;Proficiência em alguma linguagem de back-end
+como Python ;Familiaridade com frameworks JavaScript
+(Angular ou React);Familiaridade com banco de dados (MySQL, SQLite,
+etc.).
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Elaborar a arquitetura dos produtos, construindo e direcionando os times de desenvolvimento na sua utilização, envolvendo as partes interessadas do negócio no planejamento e fornecendo a estratégia técnica para a empresa, aumentando assim a sua competitividade no mercado.
+
+Main responsibilities
+
+
+
+
+Additional information
+
+Regime de contratação: CLT ou PJ
+
+SEJA BEM-VINDO(A)!
+
+Desde 1985 desenvolvemos soluções de Gestão Corporativa Integrada (ERP) para o segmento hoteleiro e desde 2005 também para o segmento previdenciário e de serviços.
+
+Por meio de um corpo técnico altamente qualificado, a CMCorp tem a resposta às múltiplas demandas do mercado, fornecendo ERPs completos, parametrizáveis, modulares e abrangentes que incorporam o conhecimento do negócio dos clientes.
+
+No atual cenário competitivo, trabalhamos continuamente para que nossos clientes recebam soluções e serviços que sejam:
+
+
+Agradecemos desde já seu interesse em fazer parte da CMCorp!
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Enviar mensagem direta ao anunciante da vaga na IDid
+Antonio Carlos Azevedo
+Perfil do Desenvolvedor IDid. - Pleno
+
+O que o Candidado irá fazer:
+
+- Participar de times de desenvolvimento ágeis.
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Setores
+Tecnologia da informação e serviços
+Empresa
+
+A 3CON é uma consultoria brasileira de TI especializada na melhoria de performance e qualidade de sistemas aplicativos e softwares, desenvolvimento e sustentação de sistemas, fábrica de software, suporte técnico e outsourcing de serviços.
+
+Descrição da Vaga
+
+Atividades
+
+Adquirir, avaliar e processar dados de várias fontes e sistemas em plataformas de Big Data
+Gerenciar dados de ponta a ponta
+Determinar a abordagem estratégica para o gerenciamento de dados
+Identificar dicionário de dados necessário
+Avaliar poder de processamento computacional requerido
+Escolher ambiente de hospedagem e o conjunto de ferramentas necessárias
+Estimar tempo, recursos para projetos/estudos
+Planejar e executar boas práticas de integração de dados
+Criar e gerenciar ambientes de dados na nuvem (Desejável)
+Suportar correção de bugs e análises de desempenho ao longo do pipeline de dados
+
+Principais habilidades
+
+Graduação/Mestrado em Ciência da Computação, Engenharia, Matemática, Estatística ou assunto relacionado
+Experiência com soluções Azure (Databricks, Azure SQL, Data factory, Analysis Services, Azure Data Lake Store, etc)
+Experiência com Power BI
+Experiência com SQL, SQLPL e shell scripts UNIX/LINUX
+Conhecimento dos princípios de Segurança da Informação para garantir o tratamento e o gerenciamento de dados em conformidade
+Proficiência em análise estatística de dados e pacotes de mineração de dados Python e pyspark.
+Desejável conhecimento de Delta Lake
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Sobre a área de Dados do will bank
+
+A área de Dados do will bank é estratégica para o negócio, ligada diretamente ao CEO e atua como uma bastiã da nossa cultura data driven. A área é composta por Data Engineering, Data Science e Data Analytics. Hoje são mais de 20 excelentes pessoas e a equipe não para de crescer. A sinergia do time nos dá a possibilidade de ganharmos uma velocidade ímpar na construção e entrega de soluções baseadas em dados.
+
+Os pilares da área são a excelência do time, liberdade pra inovar e construir a melhor solução para um problema e o excelente ambiente de trabalho que construímos.
+
+Nosso Data Lake está 100% na nuvem da AWS e trabalhamos com uma stack de tecnologias de ponta pra fornecermos dados para todas as áreas da empresa. Centralizamos todas as nossas rotinas em Python e SQL de forma que sabendo as duas linguagens você consiga desde orquestrar uma DAG até construir e entregar um modelo em produção.
+
+
+
+
+
+O seu dia a dia vai ser dentro de um time multidisciplinar com um problema desafiador a ser resolvido. E esperado que já nos primeiros meses você tenha tido impacto na forma como conduzimos nossos negócios. Te daremos a liberdade, os desafios e o suporte para entregar o seu melhor. Seja melhorando nosso processo de onboarding, integrando uma nova fonte de dados que vai ser usada pra melhorar a vida dos nossos clientes, conseguindo conceder mais crédito com menos risco, etc Aqui vivenciamos o impacto que a autonomia e empoderamento de pessoas excelentes traz ao negocio.
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Entendemos que ter plataformas tecnológicas e processos de negócio otimizados são fundamentais para vencer na era digital. Para melhorar continuamente a experiência de seus clientes, contamos com um time multidisciplinar que faz da sua busca por resultados uma obstinação diária.
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Administração
+Setores
+Tecnologia da informação e serviços
+Buscamos alguém que:
+
+Será responsavel pela análise técnica e desenvolvimento dos itens de projeto que forem definidos como prioridade e garantir a entrega com qualidade.
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Serviços financeiros
+Habilidades
+Python, Cloud, Bash
+
+O que nós buscamos
+Responsabilidades: - Manutenção de banco de dados, APIs, sistema de extração de dados, ETLs e scripts de cálculo; - Desenvolvimento e implementação de funcionalidades para identificar ordens ou padrões em bases de dados; - Desenvolvimento de Automação para processos internos que otimizem fluxo de dados entre clientes e CUBi; - Coletar, limpar, combinar e tratar dados de diferentes fontes.
+
+
+Habilidades e Competências: Domínio de Python (Pandas) Conhecimento em linguagem de script (Bash) Experiência com manipulação de grandes volumes de dados Conhecimento em Cloud (AWS e/ou GCP) Diferencial: Formação em Ciências da Computação, Engenharia da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas ou áreas correlatas; Google Data Studio Amazon QuickSight AWS Experiência em comandos SQL para o Google BigQuery Experiência com Parser de PDF Experiência com dados de Energia Elétrica
+
+
+A CUBi é uma startup movida por pessoas apaixonadas por eficiência e ciência de dados. Desde a fundação em 2017, nossa missão é alavancar o mercado de eficiência energética no Brasil através de um sistema de gestão de energia inteligente, simples e intuitivo que dá aos gestores a visão necessária para uma tomada de decisão informada. Dessa forma ajudamos empresas a melhorar sua performance energética e economizar energia continuamente.
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Descrição da Vaga
+
+O PagSeguro foi criado para oferecer soluções inovadoras, simples e seguras em meios de pagamento. Trabalhando conosco, você tem a oportunidade de fazer a diferença na vida de milhões de brasileiros e construir novas formas de se fazer e receber pagamentos.
+
+Trabalhamos em times multidisciplinares e cultivamos uma filosofia de trabalho ágil e enxuta, com as áreas de Tecnologia e de Negócios trabalhando lado a lado para criar produtos que evoluam de forma interativa para entregar valor aos clientes.
+
+
+
+
+
+
+
+
+
+SOBRE NÓS
+
+Nascemos em 2006 com o propósito de revolucionar o mercado de meios de pagamento e promover soluções inovadoras em serviços financeiros. Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Acreditamos tanto no potencial da tecnologia, que criamos o PagBank, um banco digital, que visa democratizar os serviços financeiros no Brasil.
+
+Hoje somos gigantes e seguimos impactando a vida de milhões de pessoas diariamente, oferecendo serviços rápidos, simples e seguros.
+
+Tudo isso só possível, pois aqui, no PagSeguro PagBank, a pesquisa e a inovação fazem parte do nosso DNA, compartilhamos experiências com profissionais talentosos e criativos, em um ambiente colaborativo, onde o aprendizado é garantido.
+
+Quer fazer parte dessa história? Confira nossas vagas e #vemproPags.
+
+NOSSAS REDES
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Você já parou para pensar no tamanho da estrutura tecnológica da maior rede varejista 100% nacional? Não!? Então agora imagine os profissionais que estão por trás de todas as ferramentas e funcionalidades de nossas aplicações. O grande objetivo é gerar experiências incríveis aos nossos usuários.
+
+Para este grande desafio buscamos um profissional que possua conhecimentos e habilidades para programar, desenvolver e implantar sistemas em linguagem Java.
+
+Conheça um pouco mais de nossa empresa em nosso vídeo institucional: https://www.youtube.com/watch?v=WSKAFOk7Vyo
+
+E ai, se encaixou neste desafio? Estamos esperando sua inscrição!
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Varejo
+Atividades
+Atuação no desenvolvimento de uma solução para extração e integração de dados na área de saúde;
+Análise de dados e geração de relatórios e Dashboards.
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+O Que Você Vai Fazer
+
+Levantar requisitos de negócios para projetos de BI;
+
+Realizar modelagem de soluções analíticas (modelagem tabular ou multidimensional);
+
+Elaborar concepção, desenho técnico e criação ETL em SSIS;
+
+Acompanhar os resultados e fornecer as informações para as áreas de negócios;
+
+Elaboração de relatórios gerenciais;
+
+Manutenção e evolução do BI atual, DW;
+
+Manutenção e conferência de níveis de segurança da informação (RLS).
+
+
+
+Superior completo em: Ciência da Computação, Sistemas de Informação ou áreas correlatas;
+
+Ensino superior completo;
+
+SQL (conhecimento intermediário);
+
+Power BI( conhecimento intermediário);
+
+Tableau (conhecimento intermediário);
+
+Experiência em SSIS, SSAS, SSRS;
+
+Experiência nos bancos de dados SQL Server e Oracle.
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Transporte/Caminhões/Trens
+ARQUITETO DE DADOS
+Responsabilidades:
+
+Projetar e manter uma arquitetura de dados para sistemas e aplicações complexas, prestando suporte na implantação e na sua utilização durante a implantação da solução nos diversos paises em que a empresa está presente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+O que a área faz?
+
+A gerência é responsável os sistemas de negociação de Renda Fixa e Variável da B3, ou seja, sistemas que fazem o matching de ofertas de ambos os segmentos, sendo assim considerados como alguns dos principais sistemas do mercado financeiro brasileiro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+ConsultoriaTecnologia da informaçãoVendas
+Setores
+Serviços financeiros
+Descrição
+
+Atuar no desenvolvimento de sistemas utilizando linguagem de programação Java, com foco no produto principal da empresa.
+
+
+
+Formação necessária: Superior completo/cursando Informática, Análise e Desenvolvimento de Sistemas, Ciência da Computação ou áreas afins.
+
+
+
+
+
+Informática, TI, Internet e Telecomunicação
+
+
+
+Sim
+
+
+
+Ensino Superior
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Trabalhe com a sua paixão!
+
+A Avanade é a consultoria líder em soluções inovadoras de digital e nuvem, soluções de negócios e experiências que levam design aos nossos clientes, entregues por meio do poder das nossas pessoas e do ecossistema Microsoft. Fazemos tudo aquilo que você espera de uma empresa líder em inovação digital, mas é o que você não espera o que nos torna diferente.  Somos 36.000 pessoas conectadas em 24 países, construindo histórias e fazendo acontecer.
+
+Sabemos que o trabalho não é sua única paixão e colocamos nosso valor em você - sua carreira, seus objetivos e seu desenvolvimento, para que você possa ser a sua melhor versão.
+
+
+
+Aqui, somos comprometidos com um ambiente inclusivo e diversificado, onde as nossas pessoas podem trazer o seu melhor. Trabalhamos com comitês étnico racial, gerações, women in tech, profissionais com deficiência, LGBTQ+ e crenças e religiões, pensando constantemente em ações de inclusão de responsabilidade social, a fim de construir a Avanade que respeita a individualidade.
+
+
+
+Com a manipulação de dados e criação de modelos estatísticos. Implementar métricas de acordo com o objetivo do projeto. Criar visualizações de dados para explicar suas análises e conclusões para uma audiência não-técnica, assim como contextualizar a narrativa (data storytelling). Focar em experimentação e em gerar valor para o cliente final.
+
+
+
+Experiência em Machine Learning/Deep Learning;
+
+Domínio de técnicas de Machine Learning;
+Conhecimento em aplicação de algoritmos: DecisionTree, RandomForest, XGBoost, NeuralNetworks, K-means, DBSCAN, PCA, TSNE, LDA, SVM, dentre outras;
+Programação em R ou Python;
+Estatística intermediária;
+Conhecimentos avançados em SQL para exploração, tratamento e preparação de dados;
+
+Capacidade de realizar trabalhos colaborativos;
+Perfil curioso e inovador.
+
+
+
+Experiência com as Ferramentas Azure para Dados;
+Ter conhecimento de metodologia ágil
+MLOps e DevOps
+
+
+
+
+
+
+
+
+Avanade leads in providing innovative digital services, business solutions and design-led experiences for its clients, delivered through the power of people and the Microsoft ecosystem. Our professionals combine technology, business and industry expertise to build and deploy solutions to realize results for clients and their customers. Avanade has 29,000 digitally connected people across 23 countries, bringing clients the best thinking through a collaborative culture that honors diversity and reflects the communities in which we operate. We welcome all, and seek talented individuals who can bring their whole self to work, build inclusive teams and encourage diversity inside and outside the organization. Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com .
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+A Xerpa está construindo uma nova geração de serviços financeiros baseados em tecnologia que melhoram a vida de milhões de brasileiros. Os benefícios da fintech patrocinados pelo empregador são mais inclusivos e menos caros do que os produtos tradicionalmente oferecidos pelos bancos e economizam milhões para as empresas. A posição de Xerpa na interseção dos mundos HR-Tech e Fintech nos permite liderar essa revolução por meio de nossa plataforma móvel de RH e por meio de Xerpay, nosso produto "salário sob demanda". A Xerpa é apoiada pela Kaszek Ventures, Redpoint e.ventures, QED Investors e dois dos fundadores da Nubank.
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Software
+Description: Atribuições:
+Desenvolvimento de sites, sistemas e aplicativos, assim como atividades de manutenção, inovação e implementação de novos programas;
+Projetar, criar e manter código eficiente, reutilizável e confiável;
+Desenvolvimento de Back-End, Suporte e Manutenção de Sistemas Web sites e Aplicativos;
+PHP Avançado (orientado a objetos);
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Acreditamos que as pessoas fazem a grande diferença na consolidação dos negócios e oferecemos oportunidades para o desenvolvimento dos nossos colaboradores. Se você gosta de desafios e trabalhar com muita tecnologia, esta é a oportunidade!
+
+Nossas "squads" são muito engajadas e gostam de receber novos colaboradores para consolidar o mercado de agronegócio.
+
+Estamos localizados em SJC em um ambiente de trabalho agradável e descontraído, você consegue ter um clima de parceria e de crescimento profissiona
+
+
+
+Nossas atividades consistem em desenvolvimento de sistemas e aplicações para trazer tecnologia para o agronegócio.
+
+Efetuar o desenvolvimento da interface gráfica, modelando estruturas de bancos de dados, codificando web services de integração e provendo sistemas de rotinas de segurança. Realizar a manutenção de sistemas e aplicações, estrutura de armazenamento de dados, migração de sistemas para outras linguagens ou plataformas.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços InternetRecursos humanos
+Empresa Contratante
+
+Empresa Contratante: ICRAF Brasil
+Ramo da Atividade: Pesquisa agroflorestal
+O ICRAF é um centro internacional de pesquisa referência no desenvolvimento e pesquisa agroflorestal com a missão de gerar conhecimentos com base na ciência sobre os diversos benefícios – diretos e indiretos – das agroflorestas e das árvores nas paisagens agrícolas, visando disseminar este conhecimento para desenvolver opções de políticas e práticas que melhorem os meios de vida e beneficiem o meio ambiente.
+
+Dados da Vaga de Emprego
+
+
+Projeto Diversificação do Dendê: conciliando meios de vida com conservação na produção de palmal
+Requisitos/Perfil Desejado
+
+Atribuições e Responsabilidades
+
+
+
+Observação
+
+
+Profissional – Efetivo (CLT)
+Biologia, Engenharia Agronômica, Engenharia Ambiental, Engenharia Florestal, Gestão Ambiental, Tecnologia em Agroecologia, afins
+
+Candidatura/Envio de Currículos
+
+Envio de currículos até dia 20 de Junho de 2017
+
+Por gentileza, somente enviar currículo profissionais que se encaixem no perfil.
+
+
+
+
+
+
+Divulgação
+
+Edital
+
+Cadastrado na Seção de Oportunidades da Rede Agrobase em 15 de Junho de 2017.
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+PesquisaAnalistaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+Estamos buscando um(a) BACK-END DEVELOPER para nosso time interno que irá participar do planejamento, desenvolvimento e implementação de novas funcionalidades em nossa plataforma.
+
+Responsabilidades e atribuições
+
+Aqui na Celero, você trabalhará com Python e Django no desenvolvimento de aplicações em um ambiente que valoriza as boas práticas de programação (ex. testes automatizados, unitários, code review, etc) e um método de trabalho ágil. Além disso, você terá muita liberdade para desenvolver e por isso procuramos alguém com perfil proativo e que goste de ter autonomia! :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Bancos
+Olá, somos a EISA! 💛
+
+Uma empresa apaixonada por tecnologia e movida por desafios e inovação. Carregamos no nosso DNA o conhecimento, colaboração, qualidade e agilidade que nos permite criar e desenvolver soluções que agregam valor a vida de milhares de pessoas.
+
+O nosso cliente é uma das maiores Operadoras de Telefonia Móvel do Brasil. Somos responsáveis por sustentar a maior plataforma de Business Control em tempo real da América Latina, com mais de 90 milhões de usuários, além de ser certificada pelo Great Place to Work em 2019/2020 como uma das melhores empresas para se trabalhar.
+
+Confira esta e inscreva-se para fazer parte do time EISA!
+
+
+
+
+
+
+
+
+
+: 9hs às 18hs (Flexível)
+
+
+
+Caminho das Árvores (Home Office período da pandemia)
+
+
+
+
+
+
+“Acha que essa vaga não é pra você? Que tal compartilhar com um amigo ou amiga que tem a cara dessa vaga?
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Telecomunicações
+Job Description
+
+Trabalhamos no desenvolvimento da plataforma de agricultura digital líder na América Latina. Nossa missão é criar soluções que tornem a agricultura mais produtiva, sustentável e resiliente às mudanças climáticas. Para isso, utilizamos tecnologias modernas aliadas com a ciência de dados, foco em usabilidade e experiência do usuário. Afinal, o que realmente importa é trazer valor para nossos clientes, já que eles são os agentes de mudança que vão gerar o impacto que queremos no mundo.
+
+Você tem ideia de quão é importante o manejo eficiente de doenças no dia-dia do produtor rural?
+
+Gostaria de aplicar seus conhecimentos e ajudar milhares de produtores a tomar melhores decisões no manejo de doenças no campo?
+
+Você tem a ambição de criar o melhor sistema de alerta de doenças na agricultura?
+
+Então junte-se ao nosso time!
+
+O candidato selecionado irá trabalhar em um ambiente descontraído e com flexibilidade de horário.
+
+Main responsibilities
+
+
+
+
+
+
+Requirements and skills
+
+
+Additional information
+
+
+
+
+Quem somos?
+
+
+
+Acreditamos que para superar os desafios pela frente, é preciso pensar e fazer diferente. A é o que conecta o agro de hoje com o do amanhã. Para nós, o é a união da experiência passada por gerações, com as tecnologias em prol de novos caminhos e resultados. Para isso, a colaboração de todos os envolvidos na cadeia de alimentos é essencial.
+
+
+
+
+
+A agricultura é desafiante. Para vencer, precisamos de técnica, conhecimento, tecnologia e cooperação. É para isso que viemos: para unir e solucionar, para ser ponte entre o saber e o colher. Acreditamos no poder da ciência de dados e de ferramentas de inteligência artificial para elevar o potencial destes dados em influenciar a tomada de decisão do produtor, criando uma cadeia agrícola mais produtiva, transparente e sustentável.
+
+
+
+Como temos uma fundadora mulher estamos engajados em 2 principais causas: a equidade de gênero e o respeito incondicional a diversidade. Acreditamos no poder que a pluralidade de gênero, etnia, crenças e cultura tem em trazer diferentes faces e perspectivas de um mesmo problema que nos permita desenvolver soluções inovadoras.
+
+
+
+Nós aceitamos o desafio de liderar o movimento de transformação digital no agronegócio, de alimentar o mundo e garantir resiliência climática aos produtores. Por isso temos a missão de, não só ajudar o produtor rural e a indústria a se adaptar aos novos cenários, mas também mostrar que dá pra fazer sendo Brasileiro, sendo Latino, vindo de uma cidade pequena e uma universidade normal.
+
+
+
+Prezamos sempre pela simplicidade e foco no usuário. Para nós, resultados não são somente a meta de vendas, mas o quanto geramos de impacto positivo na nossa sociedade e contribuímos para essa missão de transformar o agro.
+
+A sustentabilidade não é uma escolha, está presente em nossa forma de pensar e agir, a cada detalhe.
+
+A agricultura impacta todos os ODS (Objetivos de Desenvolvimento Sustentável). Por isso desenvolvemos soluções para diversas partes da cadeia, buscando o uso inteligente e racional dos recursos em cada atitude e tomada de decisão.
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Marketing e publicidadeSoftwareInternet
+Enviar mensagem direta ao anunciante da vaga na Focco Soluções de Gestão S.A
+Kelin Bristot
+Psicóloga, Gestão de Pessoas na Focco Sistemas de Gestão S.A
+Desenvolvedores
+Vagas para Caxias do Sul/RS
+Com atuação presencial ou remota
+
+O nosso time da My Smart Clinic é formado por pessoas que se orgulham do que fazem e querem, a todo momento, fazer valer a pena! O cliente é o foco principal, com quem conversamos e cocriamos constantemente.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareAtendimento médico e hospitalar
+Conhecimento Técnico Em Ciência De Dados, Incluindo Técnicas Estatísticas Avançadas De Machine Learning e Deep Learning
+Aprendizados supervisionado;
+Aprendizado não supervisionado;
+
+
+
+
+
+
+
+Como Cientista de Dados você terá atuação chave nos projetos e consultoria. Com reporte direto ao Data Science & Analytics Lead irá apoiar ativamente nas implementações técnicas, será responsável por todo o desenvolvimento de modelos e análises dos projetos, participará da criação de produtos e soluções, construindo os processos e utilizando as ferramentas necessárias para um trabalho de excelência. Dará apoio na identificação de oportunidades e riscos, trabalhando sempre colaborativamente com outras especialidades de modo a maximizar a geração de valor pra nossos clientes internos e externos.
+
+Como Cientistas de Dados as atribuições se resumem em:
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Temos sede por transformar nosso conhecimento técnico-científico em respostas para problemas complexos do mundo da engenharia e software.
+
+Precisamos de pessoas ágeis, éticas, comprometidas com a entrega e que estejam em constante busca por aprendizado e novos desafios. Queremos essas pessoas para compor o nosso time e, juntos, no que diz respeito à inovação e soluções tecnológicas pelos diversos setores da indústria.
+
+Estamos expandindo e tornando a nossa
+
+presença cada vez mais poderosa! Que tal fazer parte disso?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Oportunidade
+
+Estamos em busca de um(a) data scientist para trabalhar em um projeto financiado pela FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo), dentro do programa PIPE (Pesquisa Inovativa em Pequenas Empresas), em um desafio inovador, com duração de 18 meses. Procuramos um profissional que combine com o nosso Jeito de Ser e que queira atuar com Data Science em uma startup de tecnologia com grande potencial de crescimento! Aqui você poderá aprender em um ambiente descontraído, com flexibilidade para trabalho e autonomia.
+
+Local: Vila Olímpia, São Paulo (pós pandemia) + Home Office
+
+Horário: Flexível
+
+Remuneração: bolsa Fapesp TT-5 (valores disponíveis em http://www.fapesp.br/3162)
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Recrutamento e seleção
+Sobre a empresa: A Big Data é pioneira e líder no Brasil em Inteligência Artificial aplicada a negócios, ajudando clientes como AMBEV, BRF, Ipiranga e Boticário. O momento agora é de expansão internacional, e queremos gente com sangue no olho e cabeça boa para nos ajudar a atingir o objetivo de ser uma líder global em IA.
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Setores
+Tecnologia da informação e serviços
+Hoje a Easy Carros está presente em todo o país, desenvolvendo tecnologia para facilitar o dia a dia das locadoras em seus três pontos principais: financiamento, compra de veículos e operação (manutenção automotiva e gestão de multas e condutores). Temos, uma nada fácil, missão de aumentar o acesso de 100 milhões de pessoas na América Latina a bens e serviços ao oferecer , maior controle e gestão operacional para o ecossistema de .
+
+Como você poder ver, estamos construindo algo fora do comum, e aqui você vai encontrar a oportunidade de fazer parte disso tudo!
+
+Buscamos profissionais que queiram levar os melhores dados para nossos negócios e parceiros, se desafiar todos os dias entrando cada vez mais no nosso setor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Essa oportunidade é para você que curte ciência de dados, tem um background sólido em engenharia de software & big data e gosta de levar e operar modelos para produção!
+
+Buscamos Pessoas Como Você Que
+
+
+Quer trabalhar com um time diverso e em um ambiente descontraído, original e totalmente voltado para a inovação? Então vem pro DataLab da Serasa Experian!
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareServiços financeiros
+Nível: Estagiário
+Área: Tecnologia da Informação
+Escolaridade: Graduação - Administração, Engenharia de Produção e Tecnologia da Informação - Cursando
+Tipo de contrato: Estagiário
+Home Office Flexível.
+
+
+Vale Alimentação ou Refeição, Plano de saúde, Cartão Vai Bem, Seguro de vida, Assistência odontológica, Home-office
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Estágio
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+ContabilidadeServiços financeiros
+Enviar mensagem direta ao anunciante da vaga na Vivo (Telefônica Brasil)
+Daniela Zanon
+Analista JR - Atração de Talentos | Vivo (Telefônica Brasil)
+Você quer fazer parte de um time de inovação disruptiva e constante, trabalhando com volume de dados quase “infinito” e ajudando na transformação digital da Vivo? Então, seu time é o de Inteligência Artificial. Aqui você trabalhará com projetos e produtos ligados à Aura, plataforma de Inteligência Artificial da Vivo.
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Gestão de projetosTecnologia da informação
+Setores
+Telecomunicações
+Desenvolvedor JAVA - São Paulo-SP
+Imprescindivel conhecimento em linguagem de programação JAVA
+Necessária formação acadêmica em Ciência da Computação ou Sistemas de Informação
+
+Empresa de médio porte do setor de Energia
+
+
+
+Profissional será responsável pelo desenvolvimento de soluções em linguagens JAVA e Python
+
+Imprescindivel conhecimento em JAVA e framework Spring/SpringBoot Desejável conhecimento em Python e suas bibliotecas Conhecimento em Banco de Dados Relacional e/ou Não Relacional Inglês intermediário
+
+
+
+Remuneração de acordo com o mercado e remuneração variável agressiva
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Recrutamento e seleçãoRecursos humanosServiços financeiros
+O que vamos construir juntos?
+
+Projeto Choice APP Produtos Saudáveis
+
+Converter soluções em Ecossistema Hadoop para Google Native no pipeline de Dados do Hadoop tendo que ser refeito em Google Cloud.
+
+
+
+Competências: Visão Sistêmica, Capacidade Analitica, Auto Gerenciável.
+
+Backgroud de desenvolvedor para interfaces, aplicações com bons conhecimentos em:
+
+
+
+
+Vale Refeição;
+Vale Transporte;
+Assistência médica e odontológica;
+Dresscode: seja você!
+Diversidade
+
+Tratamos a todos indistintamente e não toleramos preconceito e discriminação em qualquer relação com o nosso público, sejam clientes, fornecedores, prestadores ou colaboradores.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Software
+Nossa área de Infraestrutura está passando por diversas transformações, com isso estamos buscando novos conceitos, ferramentas e tecnologia de ponta para nossos processos. Por isso, buscamos profissionais antenados e flexíveis.
+
+Para essa oportunidade precisamos de um analista em DBA com experiência de pleno, que seja antenado, proativo, que goste de buscar e dividir conhecimentos.
+
+
+
+
+
+
+Administração e suporte a bancos de dados relacional em ambiente distribuído e suporte a ferramentas para data warehouse e OLAP.
+
+
+
+
+
+
+Adicionalmente, deverá possuir pelo menos, uma das seguintes certificações
+
+
+
+
+
+ou superior;
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Sobre a vaga
+O time de desenvolvimento da Fanatee é responsável por planejar, escrever e manter o código de programação dos nossos jogos. Como membro desta equipe você vai trabalhar com programadores experientes, além de interagir com times de produto, design e BI.
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informaçãoOutro
+Setores
+Jogos de computador
+Empresa Contratante
+
+Empresa Contratante: Centro Internacional de Políticas para o Crescimento Inclusivo do Programa das Nações Unidas para o Desenvolvimento (IPC-IG/PNUD)
+Desenvolvimento global
+O Centro Internacional de Políticas para o Crescimento Inclusivo (IPC-IG) é uma parceria entre o Programa das Nações Unidas para o Desenvolvimento (PNUD) e o Governo Brasileiro, representado pelo Ministério de Planejamento, Desenvolvimento e Gestão (MP) e pelo Instituto de Pesquisa Econômica Aplicada (IPEA).
+
+Dados da Vaga
+
+
+Requisitos/Perfil Desejado
+
+
+
+
+
+
+
+
+
+
+Atribuições e Responsabilidades
+
+
+Observação
+
+
+
+
+Requisitos/Perfil Desejado
+
+
+
+
+
+
+
+
+
+
+Atribuições e Responsabilidades
+
+
+Observação
+
+
+
+
+Requisitos/Perfil Desejado
+
+
+
+
+
+
+
+
+
+
+Atribuições e Responsabilidades
+
+
+Observação
+
+
+
+
+Requisitos/Perfil Desejado
+
+
+
+
+
+
+
+
+
+
+
+Atribuições e Responsabilidades
+
+
+Observação
+
+
+Envio de Currículos
+
+Envio de currículos até dia 20 de Novembro de 2017
+
+
+
+
+
+
+Pesquisador Estatístico
+
+Pesquisador Assessor
+
+Pesquisador Assistente
+
+Pesquisador
+
+Modelo Formulário P11
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Recrutamento e seleçãoRecursos humanosConsultoria de gerenciamento
+Somos uma startup ambiciosa que vai melhorar a qualidade de vida das pessoas que vivem em grandes centros urbanos! Estamos crescendo absurdamente, combinando a agilidade, autonomia e alto impacto de uma startup com potencial global!
+
+Por se tratar de uma startup, valorizamos perfis que sejam dinâmicos com rápida adaptação a mudanças.
+
+Buscamos um@ profissional que tenha experiência prévia como Data Product Manager ou Owner de ao menos 1 ano trabalhando em organizações ágeis, fazendo a gestão estratégia e tática de uma squad interdisciplinar. Como fortaleza profissional, buscamos a habilidade e experiência prévia trabalhando em conjunto com o time de dados e tecnologia para coletar, armazenar, analisar e descobrir oportunidades ou ameaças através de dados massivos. Experiências passadas desenvolvendo produtos ou funcionalidades otimizadas através de modelagem e aprendizado de máquina serão importantes para o nosso desafio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Gestão de produtosMarketing
+Setores
+Atendimento ao consumidor
+Quem estamos buscando?
+
+Estamos buscando a pessoa desenvolvedora, que curte inovação, gosta de um ambiente colaborativo, tem domínio de tecnologias de desenvolvimento back-end.
+
+Um profissional que goste de trabalhar com desenvolvimento de aplicações Web inovadoras, utilizando tecnologias que estão em alta no mercado.
+
+
+
+
+
+
+
+
+
+Vagas também para pessoas com deficiência.
+
+Gostou? Então inscreva-se e participe do nosso processo seletivo!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+HEAD DIGITAL Esta oportunidade é para você que se identifica com um
+cenário de transformação digital e tem interesse em navegar entre times de
+negócios e tecnologia, trabalhando como parceiro de toda a organização. O desafio é ser responsável pela estruturação do Plano de
+Transformação Digital , modificando a característica da área de Tecnologia para
+uma área Digital e criação do Programa de Inovação Corporativo .Entre suas principais atribuições
+destaca-se: Revisão
+da Arquitetura Corporativa com o respectivo desdobramento do Planejamento Estratégico
+da companhia e eliminação de softwares com baixo valor agregado Implementação
+da arquitetura Omnichannel no varejo Gestão da plataforma corporativa de BI : reestrturar e aferir a arquitetura de dados Gestão
+360 de pessoas , omnichannel , tecnologia, dados e infra Identificação
+de oportunidades de aplicação da tecnologiaAlocação de recursos para o desenvolvimento das atividades da área
+
+Ensino Superior Completo (Ciência de Dados, Tecnologia da Informação, Engenharias ou áreas afins)Experiencia anterior com transformação digital Forte habilidade de gerir e influenciar pessoas Bons conhecimentos em ferramentas de gestão, controle e apresentação (Excel, Power Point ..)Experiencia no mercado do Varejo Conhecimento em metodologias ágeis será um diferencialConhecimento em ERP Microvix e SetaConhecimento dos Softwares Convenia, Solides, Tracksale
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+MarketingVendas
+Setores
+Roupas e modaRecrutamento e seleçãoVarejo
+Empresa Contratante
+
+FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo
+A Fundação de Amparo à Pesquisa do Estado de São Paulo é uma das principais agências de fomento à pesquisa científica e tecnológica do país. Com autonomia garantida por lei, a FAPESP está ligada à Secretaria de Desenvolvimento Econômico, Ciência, Inovação e Tecnologia do Governo do Estado de São Paulo.
+
+Com um orçamento anual correspondente a 1% do total da receita tributária do Estado, a FAPESP apoia a pesquisa e financia a investigação, o intercâmbio e a divulgação da ciência e da tecnologia produzida em São Paulo.
+
+Dados da Vaga de Emprego
+
+
+Sobre a Bolsa
+
+
+
+
+
+
+Candidatura/Envio de Currículos
+
+Envio de currículos até dia 15 de Abril de 2018
+
+Por gentileza, somente enviar currículo profissionais que se encaixem no perfil.
+
+
+
+Cadastrado na Seção de Oportunidades da Rede Agrobase 08 de Março de 2018.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+PesquisaAnalistaTecnologia da informação
+Setores
+PesquisaIndústria químicaBiotecnologia
+ARQUITETO DE DADOS II
+
+Vem pra nossa revolução...
+
+O Banco Inter é o primeiro banco 100% digital do Brasil e o único a oferecer uma conta completa e totalmente isenta de tarifas. Acreditamos que a relação das pessoas com seu banco pode ser muito mais simples, transparente e justa. E estamos fazendo essa transformação acontecer.
+
+Hoje somos um Banco múltiplo, com ações listadas na B3 e todos os serviços financeiros que você precisa.
+Quer fazer parte dessa revolução?
+
+
+
+
+
+
+
+
+
+
+
+
+
+O Banco Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a PCDs.
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Tecnologia da informação e serviços SoftwareServiços financeiros
+Tipo De Vaga
+
+Desenvolvimento
+
+Descrição Da Empresa
+
+Confidencial
+
+
+
+
+
+Superior Completo/andamento em Ciência da Computação, Engenharia de Software, Analise de Sistemas, Sistemas de Informação ou Engenharia Mecatrônica.
+
+
+
+Experiência de, pelo menos, 03 anos com .NET.
+
+
+
+
+
+Desejável Inglês leitura escrita e conversação.
+
+
+
+Experiência em Programação nas linguagens C# de no mínimo 3 anos;
+Experiência em Banco de dados MSSQL (Oracle, MySql desejável);
+Experiência em desenvolvimento agil;
+
+
+
+Desejável conhecimento em ITIL.
+
+
+
+Desenvolvimento de Software
+
+
+
+R$ 40,45/hora
+
+
+
+Horário flexível 8hrs por dia;
+(160 a 168 horas mês)
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+A empresa está procurando engenheiros de software para se juntar à equipe de back-end. Procuramos engenheiros com sólidos conhecimentos de programação e design de sistemas. Como estamos sempre procurando novas ferramentas e tecnologias que resolvam melhor nossos problemas, valorizamos profissionais que gostam de aprender coisas novas, são autônomos e proativos para trazer e implementar suas idéias.
+
+Como engenheiro de back-end, você trabalhará diretamente com várias equipes, como equipes de jogos, produtos, marketing, ciência de dados e engenharia de dados, para desenvolver plataformas de classe mundial usadas na criação, operação e distribuição de nossos jogos. Nosso principal objetivo é capacitar e permitir que cada uma dessas equipes faça seu trabalho mais rápido e melhor, fazendo com que nossos jogos alcancem o próximo bilhão de pessoas. Precisamos que você entenda nossos fluxos de sistemas, identifique demandas comuns de diferentes equipes e trabalhe em estreita colaboração, tanto dentro da equipe quanto com diferentes partes da organização, para projetar sistemas seguros e resilientes, com excelente usabilidade e desempenho.
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Enviar mensagem direta ao anunciante da vaga na Invenit
+Carlos Eduardo Lourenço Pereira
+Diretor Executivo na InvenIT
+O candidato ideal será responsável pelo desenvolvimento, teste, implementação e manutenção de sistemas baseados na Web, como interfaces de usuário, APIs REST e automação de sistemas. Soluciona problemas e resolve problemas de software à medida que se aplica a sites e interfaces relacionadas ao Atendimento ao Cliente. Pesquisa problemas técnicos e sugere melhorias para aplicações web. O conhecimento sobre linguagens de desenvolvimento web comumente usadas é necessário. 
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Dados. Voz. Tecnologia. Fibra. Somos a Oi, somos milhares de colaboradores desafiados a mudar, agilizar e transformar esta companhia e tudo o que ela faz. Vem com a gente criar o futuro! 
+ Qual será seu desafio aqui? 
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informaçãoDesenvolvimento de negócios
+Setores
+TelecomunicaçõesTecnologia da informação e serviços
+Efetivo (CLT) Período Integral
+
+Para Participar Você Precisa
+
+Ter proatividade, comprometimento e gostar de trabalhar em equipe;
+Ensino Superior completo ou cursando em Ciência da Computação, Tecnologia da Informação ou áreas afins;
+Experiência anterior como desenvolvedor;
+Excelente algoritmo e lógica de programação;
+Linguagem SQL intermediária a avançada;
+Padrões de orientação a objetos e versionamento de código.
+
+
+
+Atuar com desenvolvimento evolutivo e corretivo de sistemas desktop e web;
+Trabalhar com consultas e rotinas em banco de dados SQL Server e construção de reports, com predomínio atual das tecnologias Microsoft VisualFox e .Net;
+Crescer e se desenvolver técnica e profissionalmente;
+Participar de um ambiente descontraído e com práticas de qualidade de vida.
+
+
+
+Conhecimentos de Visual FoxPro ou ferramentas de desenvolvimento de sistemas Desktop (C#, Delphi, etc);
+Conhecimento de banco de dados SQL Server, SVN, WebServices, metodologias ágeis;
+Nível médio técnico.
+
+à combinar
+
+Desenvolvimento
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Analisar, explorar e minerar grandes quantidades de dados para a geração de insight e padrões que permitam identificar oportunidades e melhorias na empresa. Desenvolver modelos quantitativos aplicados aos negócios para resolver problemas e gerar vantagem competitivas nas diferentes areas de negócio da empresa.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Varejo
+Já pensou em fazer parte de uma equipe engajada em fazer a diferença e inovar proporcionando a melhor experiência e qualidade aos seus clientes?
+
+E melhor ainda, fazer parte de um time líder em soluções em vídeo para América Latina? Nosso cliente é uma das empresas mais inovadoras do Mundo segundo a Fast Company, referência no mercado de vídeos online. Venha ajudar pessoas e empresas a terem mais sucesso, independentemente do seu objetivo.
+
+100% Remoto - Home Office;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+A everis, empresa do grupo NTT DATA, é uma consultoria multinacional que oferece soluções de estratégia e de negócios, desenvolvimento e manutenção de aplicações tecnológicas e serviços de terceirização. Trabalhamos para irmos além da tecnologia, inovando e fazendo a diferença no dia-a-dia de nossos clientes.
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Vaga de Desenvolvedor em Minas Gerais. A combinar. Período Integral. Efetivo – CLT Área e especialização profissional: Informática, TI, Telecomunicações
+Programador / Desenvolvedor Nível hierárquico: Trainee Local de trabalho: Juiz de Fora, MG Regime de contratação de tipo Efetivo – CLT Jornada Período Integral O que você vai fazer: ?? Responsabilidades: Responsabilidades e atribuições:
+
+
+
+Levantamento de requisitos com áreas usuárias; Programação de aplicações e realização de testes unitários e integrados; Trabalhar de forma colaborativa, adotando metodologia Scrum.
+
+Formação em: Sistemas de Informação, Engenharia da Computação, Ciência da Computação ou afins.
+
+Domínio de desenvolvimento de JavaScript, NodeJS, React, JSF, HTML5 e CSS3; Conhecimento de UX/UI; Conhecimento de ferramentas de design (Pelo menos uma: Inkscape, GIMP, Ilustrator, PhotoShop); Experiência com Bootstrap, Sistemas de versionamento; Inglês intermediário. Diferenciais: Framework Primefaces; Conhecimento da metodologia Ágil; Automação de testes; Site Speed
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+A Sinqia, provedora da experiência mais desejada em tecnologia para o mercado financeiro no Brasil, está em busca de um(a) Desenvolvedor BPM para compor nosso time e nos ajudar a fazer o mercado financeiro pulsar!
+
+🧾Pra gente dar #match, precisamos que você conheça:
+
+
+
+🧡
+
+Acreditamos que a inovação tecnológica inspira a evolução. Afinal, foi assim, desbravando territórios e arriscando, que chegamos à liderança. Somos base, sistema e conexão. O universo das transações financeiras é vivo e, ao abraçar o desafio de estar sempre um passo à frente, garantimos o impacto positivo da nossa atuação.
+Somos uma das empresas que mais crescem no Brasil e, em 2017, fomos eleitos uma das 100 maiores Fintechs do Mundo, de acordo com a IDC. Além disso, nossa excelência em governança nos levou ao Novo Mercado da B3, um grupo seleto de empresas na bolsa de valores.
+Quem é Sinqia tem um jeitinho especial: vive em movimento, cria parcerias e está sempre um passo à frente.
+
+🧡
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+DESENVOLVEDOR(A) BACKEND (PLENO)
+Talent&IT busca de DESENVOLVEDOR BACK END PLENO para atuar na Meta3Group, uma empresa de tecnologia, que existe há 34 anos no mercado, que está em amplo crescimento, inovação e que atende grandes clientes em Belo Horizonte.
+
+
+
+
+
+
+
+
+
+REMUNERAÇÃO EM CLT OU PJ
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareSegurança de redes e computadores
+ Você tem habilidade para analisar e desenvolver rotinas de software? Nós temos uma oportunidade para você! Estamos buscando profissionais para compor nosso time de desenvolvedores.
+
+Veja algumas das missões deste cargo:
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços
+Cargo registrado: Analista
+
+Analisar, projetar, implementar, codiﬁcar, testar, documentar, implantar e promover o desenvolvimento e melhorias do APP MeuSebrae e CMS.
+
+Terceirizado
+Informática/T.I., Inovação
+Segunda à sexta-feira das 09:00 às 18:00 (1h de intervalo).
+1
+Vale Transporte, Vale Alimentação/Vale Refeição, Assistência Médica, Assistência Odontológica e Seguro de Vida.
+
+
+
+Superior completo em Ciência da Computação, Sistemas/Tecnologia da Informação, Engenharia de Software e áreas relacionadas.
+
+Vivência em desenvolvimento de tecnologias web e mobile (frontend e backend). Experiência com desenvolvimento mobile: Pro APP Xamarin Forms; C#; Criação de soluções responsivas; HTML/CSS; JavaScript; Java Full Stack; PHP; Webservices / API; Banco de Dados Oracle/PLSQL, SQL Server.
+
+Desejável conhecimento em Ferramentas de Metodologias Ágeis (Scrum, Kanban); Framework Laravel; UX e UI.
+
+
+
+Serviço de apoio as Micro e Pequenas Empresas do Estado do Paraná - SEBRAE/PR,
+Unidade de Trabalho: UAR - Unidade de Atendimento e Relacionamento.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Rede sem fioTelecomunicações
+Analista de Risco
+Contratação CLT Full - Prazo Indeterminado
+Presencial Pós Pandemia
+Vila Olimpia / São Paulo
+
+Atividades: Auxílio para mensurar, monitorar e gerenciar os riscos aos quais as corretoras estão sujeitas. Análises das posições dos termos, opções, BTC, carteiras totais. Responsável pela concessão, controle e acompanhamento dos limites de clientes que operam via DMA e operadores de mesa. Importante ter ciência de resoluções, assim como instruções para atendimento à órgãos reguladores. Auxílio na realização/ revisão de políticas, manuais e procedimentos. Mapeamento de incidentes, realização de relatório de liquidez, desenvolvimento de soluções para melhoria dos controles internos da área, participação no desenvolvimento de projetos. Consolidação dos dados para apresentação no Comitê de Risco.
+Habilidades: Pró-atividade, Concentração e disciplina, Trabalho em equipe, Senso crítico.
+Experiência e Conhecimentos: Nível superior completo, preferência por cursos de Administração, Economia e Engenharia. Inglês avançado. Excel Avançado. Experiência de pelo menos 2 anos no mercado financeiro.
+Bom ter dissertação
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+FinanceiroVendas
+Setores
+Desenvolvimento de programas
+Quer impactar bilhões de vidas com dados?
+
+Vem compartilhar desse sonho conosco! #vempraSemantix
+
+Na Semantix, somos um time de apaixonados por tecnologia, com diferentes graus de experiência e conhecimento, diversas origens, e principalmente 100% motivados a levar inovação e inteligência para nossos clientes através das principais plataformas do mercado.
+
+
+Elaborar desenho, cálculo de volumetria e crescimento de ambiente, custo financeiro e documentações técnicas para arquiteturas de Lakehouses, Datalakes, Sandbox, Ciência de Dados, Aplicações e Soluções de Inteligência Artificial.
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Job Description
+
+38 anos no mercado, a TecBan (Tecnologia Bancária S.A.) é especializada na gestão do ciclo do dinheiro por meio de soluções de autoatendimento e compartilhamento bancário. A empresa atua como rede externa das instituições financeiras, sendo reconhecida por suas soluções inovadoras, seguras, escaláveis e com investimentos relevantes no país. Nos últimos cinco anos, a companhia investiu R$ 2,2 bilhões para democratizar o acesso a serviços financeiros em todas as regiões do Brasil. Com o objetivo de atender às constantes evoluções do mercado e às necessidades dos bancos, estabelecimentos comerciais e consumidores, a TecBan oferece um portfólio completo por meio dos seus negócios: Banco24Horas, Banco24Horas Exclusivo, Mídia Banco24Horas, ATMManager, +Varejo Banco24Horas, Compartilhamento de Redes, Saque Digital, Switch Interbancário Blockchain, Branch Transformation e Open Banking. Valorizamos um bom ambiente de trabalho e as pesquisas de clima mostram que os colaboradores estão satisfeitos em trabalhar na TecBan. A companhia investe em treinamento e promove crescimento profissional das equipes.
+
+Venha fazer parte deste time!
+
+Main responsibilities
+
+Propor e implementar soluções tecnológicas aderentes às necessidades do negócio para o atendimento de demandas e garantia da disponibilidade e desempenho dos sistemas da plataforma Switch de forma sustentável, através das práticas, normas e processos adotados pela empresa, atendendo prazo, custo e qualidade, visando a continuidade do negócio e a satisfação dos clientes.
+
+
+
+
+
+
+
+
+
+Additional information
+
+
+
+
+
+
+
+
+
+
+Somos a TecBan
+
+
+
+A oferece soluções inovadoras de autoatendimento por meio de um modelo de economia compartilhada, cujo objetivo é criar valor para toda a sociedade. Nos últimos dez anos, foram investidos R$ 3 bilhões para dar o acesso a serviços financeiros a todas as classes sociais, em todos os estados do Brasil.
+
+A também oferece um pacote completo de serviços por meio de soluções criadas com o objetivo de atender às constantes evoluções do mercado e às necessidades das instituições financeiras, estabelecimentos comerciais e consumidores. Produtos como o , , e , , , , , , , e atendem milhões de pessoas em todo o país.
+
+Seja Protagonista Da Sua Carreira, Faça Acontecer!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Tecnologia da informação e serviços SoftwareServiços financeiros
+O que nos move
+
+Antes de sermos uma empresa, antes de sermos um banco ou até mesmo antes de sermos uma instituição, nós somos um grupo de pessoas em constante crescimento unido por um único propósito: facilitar e disseminar a educação financeira no Brasil. Estamos empenhados em trazer não apenas produtos, mas oportunidades, não só investimentos financeiros, mas de vida. Queremos que, por meio da gestão financeira, todos consigam alcançar os seus sonhos. E, para isso, nós vamos precisar de ajuda. Da sua ajuda! Se você quer trabalhar em um lugar com propósito e crescer profissional e pessoalmente, o modalmais está de portas abertas para você. Vamos (juntos) construir um novo modo de ver as finanças. Seja modalmais!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Você quer uma oportunidade dentro de um projeto inovador, com propósito, potencialmente disruptivo e na área de gestão de investimentos?
+
+Corre! Tem uma aqui te esperando!
+
+O Modalmais respeita a diversidade e trabalha para promover uma cultura inclusiva, que busca a equidade e valoriza as diferenças. Pessoas com Deficiências (PCDs) são bem-vindas em nosso time!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Bancos de investimento
+Sobre a Bip
+
+O nosso propósito é provocar transformações significativas desafiando o status quo constantemente. Somos uma consultoria internacional, jovem, fundada na Itália em 2003 com um ecossistema em evolução que proporciona uma transformação significativa devido à sua abordagem personalizada, atitude de criador único e espírito pioneiro em um mundo de constante mudanças. Somos visionários e sonhadores, olhando as coisas por diferentes pontos de vista, almejando descobrir novas metodologias e processos que solucionam a complexidade do mundo atual causando impacto positivo.
+
+Com capilaridade global, possuímos cerca de 3.300 funcionários, com escritórios em 11 países e em 4 continentes, com projetos correntes em 42 países. No Brasil estamos presentes com escritórios em São Paulo e no Rio de Janeiro desde 2010 suportando grandes empresas através de projetos estratégicos e de transformação e atuando principalmente nos setores de Energia, O&G, Utilities, Serviços Financeiros, Telecomunicações, Varejo, Bens de consumo, Serviços e Agronegócios. A melhor maneira de materializar a nossa forma de atuação é através do nosso payoff ?HERE TO DARE?, bem evidenciado pelo nosso vídeo de apresentação.
+
+A cultura da BIP está intrinsecamente expressa em nossos 4 valores de Flexibilidade, Inovação, Excelência e Integridade.
+
+
+
+Assistência médica e odontológica;
+
+VR, VT, Birthday off, Flex office, Dress code flexível;
+
+Academia BIP com Webinars e Treinamentos à distância, incentivos ao conhecimento e Programa de mentoria e acompanhamento;
+
+
+
+
+
+Bacharelado preferencial em ciência da computação ou STEM (Ciência, Tecnologia, Engenharia e Matemática.
+
+
+
+Buscamos um consultor de tecnologia para se juntar à nossa equipe de cibersegurança.
+
+O candidato selecionado trabalhará em um ambiente com bastante autonomia e muita responsabilidade, além de ter a chance de trabalhar em colaboração em diversos projetos interessantes relacionados à segurança da informação, continuidade dos negócios e proteção de dados pessoais.
+
+O consultor participará do desenvolvimento de estratégias de segurança, considerando os objetivos de negócios dos clientes e outras restrições relevantes (por exemplo, requisitos de conformidade de regulamentos nacionais ou internacionais).
+
+Também serão atividades / responsabilidades do consultor ou da equipe da qual fará parte:
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+ConsultoriaTecnologia da informaçãoVendas
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
