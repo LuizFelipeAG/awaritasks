@@ -1,1 +1,1 @@
-# visualizacao_exploratoria_exercicios
+# Exploratory Visualization exercises from Awari School
